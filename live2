@@ -2,144 +2,105 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5e/ATN_Islamic_TV_Logo.png" group-title="Live Tv",ATN Islamic TV
 http://iptvbd.jagobd.com:1931/live-orgin/atnislamictv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pJhdZme.png" group-title="Live Tv", Al Dawah 
-http://live.flixhub.net/hls/madani.m3u8
+http://172.16.29.250/hls/madani.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t4FS3Hr.png" group-title="Live Tv", Quran TV
-http://live.flixhub.net/hls/qurqntv.m3u8
+http://172.16.29.250/hls/qurqntv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Live Tv",T Sports HD
 http://10.90.90.106:8082/T-Sports/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Live Tv",GAZI TV
-http://live.flixhub.net/hls/Gazi-TV.m3u8
+http://172.16.29.250/hls/Gazi-TV.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="Live Tv",Shomoy TV
-http://live.flixhub.net/hls/somoy.m3u8
+http://172.16.29.250/hls/somoy.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imaged485611e23a7ca51.png" group-title="Live Tv",Independent
-http://live.flixhub.net/hls/indepen.m3u8
+http://172.16.29.250/hls/indepen.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="Live Tv",Ekattor
-http://live.flixhub.net/hls/nexus.m3u8
+http://172.16.29.250/hls/nexus.m3u8
 #EXTINF:-1 tvg-language="Bangla" tvg-logo="https://s6.gifyu.com/images/image33ddf62bcf70a5b9.png" group-title="Live Tv",Channel I
-http://live.flixhub.net/hls/channeli.m3u8
+http://172.16.29.250/hls/channeli.m3u8
 #EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png" group-title="Live Tv", DD National
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Live Tv",Star Jalsha HD
-http://live.flixhub.net/hls/starjalsha.m3u8
+http://172.16.29.250/hls/starjalsha.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTIxOpZ.png" group-title="Live Tv",Zee Bangla HD
-http://live.flixhub.net/hls/zeebanglahd.m3u8
+http://172.16.29.250/hls/zeebanglahd.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Live Tv",Colors Bangla HD
-http://live.flixhub.net/hls/colorsbangla.m3u8
+http://172.16.29.250/hls/colorsbangla.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sun_Bangla.png" group-title="Live Tv",SUN Bangla HD
-http://live.flixhub.net/hls/sunbangla.m3u8
+http://172.16.29.250/hls/sunbangla.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/Enterr10_Bangla.jpeg" group-title="Live Tv",ENTER 10 BANGLA
-http://live.flixhub.net/hls/enterr10.m3u8
+http://172.16.29.250/hls/enterr10.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="Live Tv",SONY AATH
-http://live.flixhub.net/hls/Sony_Aath.m3u8
+http://172.16.29.250/hls/Sony_Aath.m3u8
 #EXTINF:-1 tvg-logo="https://alltimetrends.com/wp-content/uploads/2020/07/Star-plus-hd.jpg" group-title="Live Tv",STAR PLUS HD
-http://live.flixhub.net/hls/starplus.m3u8
+http://172.16.29.250/hls/starplus.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.clipart.email/8291b06b35c5c60621d830d0926a1a21_index-of-plexflixto-picons-indian-_1024-484.png" group-title="Live Tv",Zee Tv HD
-http://live.flixhub.net/hls/zeetv.m3u8
+http://172.16.29.250/hls/zeetv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/SET_India.jpg/100px-SET_India.jpg" group-title="Live Tv",SONY HD
-http://live.flixhub.net/hls/sonyen.m3u8
+http://172.16.29.250/hls/sonyen.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1217203728224145408/XWWCL0Zz_400x400.jpg" group-title="Live Tv",STAR BANGLA
-http://live.flixhub.net/hls/khushboo.m3u8
+http://172.16.29.250/hls/khushboo.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Live Tv",Jalsha Movies HD
-http://live.flixhub.net/hls/jalshamovies.m3u8
+http://172.16.29.250/hls/jalshamovies.m3u8
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2023/05/Colors-Bangla-Cinema.png" group-title="Live Tv",Colors Bangla Cinema
-http://live.flixhub.net/hls/colore-bangla-cinema.m3u8
+http://172.16.29.250/hls/colore-bangla-cinema.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_UCQ8r1-2dWimt7roVLe36t5hW6mayouhdA&usqp=CAU" group-title="Live Tv",Zee Bangla Cinema
-http://live.flixhub.net/hls/zee-bangla-cinema.m3u8
+http://172.16.29.250/hls/zee-bangla-cinema.m3u8
 #EXTINF:-1 tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_298/ic_logo_sony_MaxHD.png" group-title="Live Tv",SONY MAX HD
-http://live.flixhub.net/hls/sony-maxhd.m3u8
+http://172.16.29.250/hls/sony-maxhd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="Live Tv",Zee Cinema HD
-http://live.flixhub.net/hls/zeecinemahd.m3u8
+http://172.16.29.250/hls/zeecinemahd.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="Live Tv",Star Gold HD
-http://live.flixhub.net/hls/stargold.m3u8
+http://172.16.29.250/hls/stargold.m3u8
 #EXTINF:-1 tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000050850000/PORTRAIT/hLnucnRV.png" group-title="Live Tv",Colours Cineplex
-http://live.flixhub.net/hls/colorscineplex.m3u8
+http://172.16.29.250/hls/colorscineplex.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="Live Tv",Sony Pix HD
-http://live.flixhub.net/hls/sonypixhd.m3u8
+http://172.16.29.250/hls/sonypixhd.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/StarMoviesSelectHDLogo.jpg" group-title="Live Tv",Star Movies  HD
-http://live.flixhub.net/hls/starmovies.m3u8
+http://172.16.29.250/hls/starmovies.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7mxlvs6.png" group-title="Live Tv",MNX
-http://live.flixhub.net/hls/mnx-hd.m3u8
+http://172.16.29.250/hls/mnx-hd.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Movies_Now_logo.png" group-title="Live Tv",MOVIES NOW HD
-http://live.flixhub.net/hls/movies-now.m3u8
+http://172.16.29.250/hls/movies-now.m3u8
 #EXTINF:-1 group-title="Live Tv" tvg-logo="https://i.ibb.co/tcDRYrZ/Png-Item-236241.png",FOX HD
-http://live.flixhub.net/hls/mn+.m3u8
+http://172.16.29.250/hls/mn+.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.adgully.com/img/800/67819_romedy-now.png.jpg" grouptitle="Live Tv",Romedy Now
-http://live.flixhub.net/hls/star-worldhd.m3u8
+http://172.16.29.250/hls/star-worldhd.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201907/sony-yay.jpg" group-title="Live Tv",Sony YAY
-http://live.flixhub.net/hls/dis-kid.m3u8
+http://172.16.29.250/hls/dis-kid.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/8c/23/ff/8c23ffe477717c21de730f66685c3972.png" group-title="Live Tv",Nick
-http://live.flixhub.net/hls/nick.m3u8
+http://172.16.29.250/hls/nick.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Live Tv",Sony Six HD
-http://live.flixhub.net/hls/sonysix.m3u8
+http://172.16.29.250/hls/sonysix.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="Live Tv",Sony Ten 1
-http://live.flixhub.net/hls/sonyten1.m3u8
+http://172.16.29.250/hls/sonyten1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="Live Tv",Sony Ten 2
-http://live.flixhub.net/hls/sonyten2.m3u8
+http://172.16.29.250/hls/sonyten2.m3u8
 #EXTINF:-1,tvg-logo="https://cdn.clipart.email/b504e9913288900ca726a0a2b200e17b_star-sports-1-logopedia-fandom_250-196.png" group-title="Live Tv",Star Sports 1 HD
-http://live.flixhub.net/hls/stersports1hd.m3u8
+http://172.16.29.250/hls/stersports1hd.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image04e6530896d42919.png" group-title="Live Tv",Star Sports 2 HD
-http://live.flixhub.net/hls/starsports2.m3u8
+http://172.16.29.250/hls/starsports2.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-select-hd-1-logo-300x300.jpg" group-title="Live Tv",Star Sports SELECT 1
-http://live.flixhub.net/hls/Star_Sport_Select1HD.m3u8
+http://172.16.29.250/hls/Star_Sport_Select1HD.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="Live Tv",PTV SPORTS
-http://live.flixhub.net/hls/ptv.m3u8
+http://172.16.29.250/hls/ptv.m3u8
 #EXTINF:-1 tvg-logo="https://www.financialexpress.com/wp-content/uploads/2022/04/image001-1.jpg" group-title="Live Tv",SPORTS 18
-http://live.flixhub.net/hls/bein1.m3u8
+http://172.16.29.250/hls/bein1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Txphd_logo_2015.png" group-title="Live Tv",TRAVEL XP
-http://live.flixhub.net/hls/travelxp.m3u8
+http://172.16.29.250/hls/travelxp.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="Live Tv",National Geographic HD
-http://live.flixhub.net/hls/ngohd.m3u8
+http://172.16.29.250/hls/ngohd.m3u8
 #EXTINF:-1 tvg-logo="https://nationalgeographicpartners.com/app/uploads/2020/11/nat-geo-wild-1.jpg" group-title="Live Tv",National Geographic Wild HD
-http://live.flixhub.net/hls/wild.m3u8
+http://172.16.29.250/hls/wild.m3u8
 #EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Discovery-Asia.png" group-title="Live Tv",Discovery
-http://live.flixhub.net/hls/discovery.m3u8
+http://172.16.29.250/hls/discovery.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony BBC Earth HD" tvg-logo="http://roarmediazone.com/tv/weblogo/23.jpg" group-title="Live Tv",Sony BBC Earth HD
-http://live.flixhub.net/hls/bbcearth.m3u8
+http://172.16.29.250/hls/bbcearth.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="Live Tv",ANIMAL PLANET HD
-http://live.flixhub.net/hls/animalplanent.m3u8
+http://172.16.29.250/hls/animalplanent.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IEwWaEN.png" group-title="Live Tv", 9XM 
-http://live.flixhub.net/hls/9xm.m3u8
+http://172.16.29.250/hls/9xm.m3u8
 #EXTINF:-1 tvg-logo="https://image3.mouthshut.com/images/imagesp/925904402s.png" group-title="Live Tv",SANGEET BANGLA
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://programmes.files.bbci.co.uk/programmes-frontend/images/logos/svg/bbc_world_news/service-5742221a20.svg" group-title="Live Tv",BBC WORLD
-http://live.flixhub.net/hls/bbcworld.m3u8
+http://172.16.29.250/hls/bbcworld.m3u8
 
 
-
-
-
-
-
-                                                                        ***** MOVIE *****
-
-#EXTINF:-1 tvg-logo="https://spontaneousorder.in/wp-content/uploads/2020/04/AaX5HI7NCDzOR6bjgJN0.png" group-title="Live Tv", PANCHAYAT S1-E01
-http://10.16.100.202/ftps10/iccftps10sasd4/Tv%20Show/Hindi/Panchayat%20Season%2001%20(2020)%20Completed/Panchayat%20S01E01_Gram%20Panchayat%20Phulera.mkv
-#EXTINF:-1 tvg-logo="https://spontaneousorder.in/wp-content/uploads/2020/04/AaX5HI7NCDzOR6bjgJN0.png" group-title="Live Tv", PANCHAYAT S1-E02
-http://10.16.100.202/ftps10/iccftps10sasd4/Tv%20Show/Hindi/Panchayat%20Season%2001%20(2020)%20Completed/Panchayat%20S01E02_Bhootha%20Ped.mkv
-#EXTINF:-1 tvg-logo="https://spontaneousorder.in/wp-content/uploads/2020/04/AaX5HI7NCDzOR6bjgJN0.png" group-title="Live Tv", PANCHAYAT S1-E03
-http://10.16.100.202/ftps10/iccftps10sasd4/Tv%20Show/Hindi/Panchayat%20Season%2001%20(2020)%20Completed/Panchayat%20S01E03_Chakke%20Wali%20Kursi.mkv
-#EXTINF:-1 tvg-logo="https://spontaneousorder.in/wp-content/uploads/2020/04/AaX5HI7NCDzOR6bjgJN0.png" group-title="Live Tv", PANCHAYAT S1-E04
-http://10.16.100.202/ftps10/iccftps10sasd4/Tv%20Show/Hindi/Panchayat%20Season%2001%20(2020)%20Completed/Panchayat%20S01E04_Hamara%20Neta%20Kaisa%20Ho.mkv
-#EXTINF:-1 tvg-logo="https://spontaneousorder.in/wp-content/uploads/2020/04/AaX5HI7NCDzOR6bjgJN0.png" group-title="Live Tv", PANCHAYAT S1-E05
-http://10.16.100.202/ftps10/iccftps10sasd4/Tv%20Show/Hindi/Panchayat%20Season%2001%20(2020)%20Completed/Panchayat%20S01E05_Computer%20Nahi%20Monitor.mkv
-#EXTINF:-1 tvg-logo="https://spontaneousorder.in/wp-content/uploads/2020/04/AaX5HI7NCDzOR6bjgJN0.png" group-title="Live Tv", PANCHAYAT S1-E06
-http://10.16.100.202/ftps10/iccftps10sasd4/Tv%20Show/Hindi/Panchayat%20Season%2001%20(2020)%20Completed/Panchayat%20S01E06_Bahot%20Hua%20Samman.mkv
-#EXTINF:-1 tvg-logo="https://spontaneousorder.in/wp-content/uploads/2020/04/AaX5HI7NCDzOR6bjgJN0.png" group-title="Live Tv", PANCHAYAT S1-E07
-http://10.16.100.202/ftps10/iccftps10sasd4/Tv%20Show/Hindi/Panchayat%20Season%2001%20(2020)%20Completed/Panchayat%20S01E07_Ladka%20Tez%20Hai%20Lekin.mkv
-#EXTINF:-1 tvg-logo="https://spontaneousorder.in/wp-content/uploads/2020/04/AaX5HI7NCDzOR6bjgJN0.png" group-title="Live Tv", PANCHAYAT S1-E08
-http://10.16.100.202/ftps10/iccftps10sasd4/Tv%20Show/Hindi/Panchayat%20Season%2001%20(2020)%20Completed/Panchayat%20S01E08_Jab%20Jaago%20Tabhi%20Savera.mkv
-#EXTINF:-1 tvg-logo="https://www.flickonclick.com/wp-content/uploads/2022/05/pan2-logo-696x391.png" group-title="Live Tv", PANCHAYAT S2-E01
-http://10.16.100.213/iccftps13/iccftps13sasd3/TV%20Show/Serials%20(Hindi)/Panchayat%20Season%2002%20(2022)%20Completed/Panchayat%20S02E01.mp4
-#EXTINF:-1 tvg-logo="https://www.flickonclick.com/wp-content/uploads/2022/05/pan2-logo-696x391.png" group-title="Live Tv", PANCHAYAT S2-E02
-http://10.16.100.213/iccftps13/iccftps13sasd3/TV%20Show/Serials%20(Hindi)/Panchayat%20Season%2002%20(2022)%20Completed/Panchayat%20S02E02.mp4
-#EXTINF:-1 tvg-logo="https://www.flickonclick.com/wp-content/uploads/2022/05/pan2-logo-696x391.png" group-title="Live Tv", PANCHAYAT S2-E03
-http://10.16.100.213/iccftps13/iccftps13sasd3/TV%20Show/Serials%20(Hindi)/Panchayat%20Season%2002%20(2022)%20Completed/Panchayat%20S02E03.mp4
-#EXTINF:-1 tvg-logo="https://www.flickonclick.com/wp-content/uploads/2022/05/pan2-logo-696x391.png" group-title="Live Tv", PANCHAYAT S2-E04
-http://10.16.100.213/iccftps13/iccftps13sasd3/TV%20Show/Serials%20(Hindi)/Panchayat%20Season%2002%20(2022)%20Completed/Panchayat%20S02E04.mp4
-#EXTINF:-1 tvg-logo="https://www.flickonclick.com/wp-content/uploads/2022/05/pan2-logo-696x391.png" group-title="Live Tv", PANCHAYAT S2-E05
-http://10.16.100.213/iccftps13/iccftps13sasd3/TV%20Show/Serials%20(Hindi)/Panchayat%20Season%2002%20(2022)%20Completed/Panchayat%20S02E05.mp4
-#EXTINF:-1 tvg-logo="https://www.flickonclick.com/wp-content/uploads/2022/05/pan2-logo-696x391.png" group-title="Live Tv", PANCHAYAT S2-E06
-http://10.16.100.213/iccftps13/iccftps13sasd3/TV%20Show/Serials%20(Hindi)/Panchayat%20Season%2002%20(2022)%20Completed/Panchayat%20S02E06.mp4
-#EXTINF:-1 tvg-logo="https://www.flickonclick.com/wp-content/uploads/2022/05/pan2-logo-696x391.png" group-title="Live Tv", PANCHAYAT S2-E07
-http://10.16.100.213/iccftps13/iccftps13sasd3/TV%20Show/Serials%20(Hindi)/Panchayat%20Season%2002%20(2022)%20Completed/Panchayat%20S02E07.mp4
-#EXTINF:-1 tvg-logo="https://www.flickonclick.com/wp-content/uploads/2022/05/pan2-logo-696x391.png" group-title="Live Tv", PANCHAYAT S2-E08
-http://10.16.100.213/iccftps13/iccftps13sasd3/TV%20Show/Serials%20(Hindi)/Panchayat%20Season%2002%20(2022)%20Completed/Panchayat%20S02E08.mp4
 
