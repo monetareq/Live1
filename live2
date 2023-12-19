@@ -3,42 +3,64 @@
 https://livess.jagobd.com.bd/live-orgin/atnislamictv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pJhdZme.png" group-title="Live Tv", Al Dawah 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t4FS3Hr.png" group-title="Live Tv", Quran TV
-http://103.109.56.116/live/skyfeed1022/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Live Tv",T Sports HD
 http://103.109.56.116/live/skyfeed1005/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Live Tv",GAZI TV
 http://103.109.56.116/live/skyfeed1006/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Green_TV_Logo.png" group-title="Live Tv",GREEN TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/b/be/%E0%A6%A6%E0%A7%80%E0%A6%AA%E0%A7%8D%E0%A6%A4_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B_%E0%A7%A8.jpg" group-title="Live Tv",DIPTTO TV
-http://103.109.56.116/live/skyfeed1011/index.m3u8
-#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="Live Tv",Shomoy TV
-http://103.109.56.116/live/skyfeed1014/index.m3u8
-#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imaged485611e23a7ca51.png" group-title="Live Tv",Independent
-http://103.109.56.116/live/skyfeed1012/index.m3u8
-#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="Live Tv",Ekattor
-http://103.109.56.116/live/skyfeed1015/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.bashundharagroup.com/assets/upload/wallpaper/wallpaper_1525683191.png" group-title="Live Tv",NEWS 24
-http://103.109.56.116/live/funtime109/index.m3u8
-#EXTINF:-1 tvg-language="Bangla" tvg-logo="https://s6.gifyu.com/images/image33ddf62bcf70a5b9.png" group-title="Live Tv",Channel I
-#EXTINF:-1 tvg-language="Bangla" tvg-logo="https://logo.lusha.co/d/company_712974_logo.jpg" group-title="Live Tv",JAMUNA TV
-http://103.109.56.116/live/skyfeed1021/index.m3u8
-#EXTINF:-1 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" group-title="Live Tv",DBC TV
-http://103.109.56.116/live/funtime108/index.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banglavision.svg/640px-Banglavision.svg.png" group-title="Live Tv", BANGLA VISION
-http://103.109.56.116/live/skyfeed1009/index.m3u8
-#EXTINF:-1 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/5/59/%E0%A6%AE%E0%A6%BE%E0%A6%9B%E0%A6%B0%E0%A6%BE%E0%A6%99%E0%A6%BE_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png" group-title="Live Tv",MAASRANGA TV
-http://103.109.56.116/live/skyfeed1013/index.m3u8
-#EXTINF:-1 tvg-language="Bangla" tvg-logo="https://play-lh.googleusercontent.com/22vh5xTYiGG-2Y6dmsO5O7I-Xeh8R-sgeKPjpQ4Tr8SHnO0LjfuPCB6FYMwPP3BozQ" group-title="Live Tv",E TEN TV
-https://iptvbd.live/test/1080.m3u8
-#EXTINF:-1 tvg-language="Bangla" tvg-logo="https://play-lh.googleusercontent.com/NFY7IIuJrsa9S3t2zkOCwn4yiwVAxBRauvwQlpjlmsrIOvBhhkj9oT50-qqhpPPKbgQ" group-title="Live Tv",NANDAN TV
-https://web.nandansyst.com/hls/nandan.m3u8
-#EXTINF:-1 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/1200px-Ekushey_Television_Logo.svg.png" group-title="Live Tv",EKUSHEY TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Green_TV_Logo.png" group-title="Live Tv",GREEN TV
+https://livess.jagobd.com.bd/somoy/greentv.stream/chunks.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/2560px-ATN_Bangla.svg.png" group-title="Live Tv", ATN Bangla
+https://livess.jagobd.com.bd/somoy/atnbd-8-org.stream/chunks.m3u8
+#EXTINF:-1, tvg-logo="https://atnmusic.tv/images/logo.png" group-title="Live Tv",ATN Music
+https://livess.jagobd.com.bd/somoy/atnmusic.stream/chunks.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5e/ATN_Islamic_TV_Logo.png" group-title="Live Tv",ATN Islamic
+https://livess.jagobd.com.bd/somoy/atnislamictv.stream/chunks.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banglavision.svg/640px-Banglavision.svg.png" group-title="Live Tv",Banglavision
+https://livess.jagobd.com.bd/somoy/banglav000.stream/chunks.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Boishakhi_Tv_Logo.png" group-title="Live Tv",Boishakhi Tv
+https://livess.jagobd.com.bd/somoy/boishakhitv-org.stream/chunks.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/Channel_S_Logo.SVG/640px-Channel_S_Logo.SVG.png" group-title="Live Tv",Channels S
+https://livess.jagobd.com.bd/somoy/chsukoff.stream/chunks.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/1200px-Channel24logo.svg.png" group-title="Live Tv",Channel 24
+https://livess.jagobd.com.bd/somoy/channel24-sg-e8e.stream/chunks.m3u8
+#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/ChanneliBD.png/revision/latest?cb=20200206105403" group-title="Live Tv",Channel I
+https://livess.jagobd.com.bd/somoy/channeli-8-org.stream/chunks.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/1200px-Ekushey_Television_Logo.svg.png" group-title="Live Tv",Ekushey Tv
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/ITV_Logo.png?20160630094520" group-title="Live Tv",I TV
-http://162.244.81.142:1935/live/livestream/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/HB_K5ZUcWFfYBcST4buqJ_Oq3g16g4F8jbWLV3jrytGLcWks9ld0R_8ccdxDS_9gqPyP" group-title="Live Tv",Jamuna Tv
+https://livess.jagobd.com.bd/somoy/jamuna-test-sample-ok.stream/chunks.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/1200px-Mohona_tv_Logo.svg.png" group-title="Live Tv",Mohona Tv
+https://livess.jagobd.com.bd/somoy/mohonatv00000223232244556633.stream/chunks.m3u8
+#EXTINF:-1, tvg-logo="https://moviebangla.tv/images/moviebanglatv-02.png" group-title="Live Tv",Movie Bangla
+https://livess.jagobd.com.bd/somoy/moviebanglalink2.stream/chunks.m3u8
+#EXTINF:-1, tvg-logo="https://logovectordl.com/wp-content/uploads/2019/12/news24bd-tv-logo-vector.png" group-title="Live Tv",News 24
+https://livess.jagobd.com.bd/somoy/news24local.stream/chunks.m3u8
+#EXTINF:-1, tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKYpGDz-6AaKzNNef-vaoHsf16Tyt7niUXAH9vFq=s900-c-k-c0x00ffffff-no-rj" group-title="Live Tv",NRB Tv
+https://livess.jagobd.com.bd/somoy/nrb-eu.stream/chunks.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1200px-Rtv_bangladesh.svg.png" group-title="Live Tv",Rtv
+https://livess.jagobd.com.bd/somoy/rtv-sg.stream/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://www.somoynews.tv/_nuxt/img/somoy-logo-big-2.8c0bf75.png" group-title="Live Tv",Somoy Tv
+https://livess.jagobd.com.bd/somoy/somoyt000011226615544544.stream/chunks.m3u8
+#EXTINF:-1, tvg-logo="https://tvtvtv.ru/icons/varendra_tv.png" group-title="Live Tv",Varendra Tv
+https://livess.jagobd.com.bd/somoy/varendratv.stream/chunks.m3u8
+#EXTINF:-1, tvg-logo="https://www.deshitv.com/images//ani_gif/DeshiTV24_ClickHereToLive.gif" group-title="Live Tv",Deshi Tv
+http://208.86.19.13:81/514.stream/index.m3u8
+#EXTINF:-1, tvg-logo="https://cdn.jagonews24.com/media/common/logo.png" group-title="Live Tv",Jago News
+https://livess.jagobd.com.bd/somoy/jagonews24.stream/chunks.m3u8
+#EXTINF:-1, tvg-logo="https://www.satv.tv/wp-content/uploads/2021/08/satv-logo-1.jpg" group-title="Live Tv",SA Tv
+https://livess.jagobd.com.bd/somoy/satvoff5666.stream/chunks.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png" group-title="Live Tv",Independent 24
+https://livess.jagobd.com.bd/somoy/independent-8-org.stream/chunks.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" group-title="Live Tv",DBC News
+https://livess.jagobd.com.bd/somoy/dbcnews.stream/chunks.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="Live Tv",Deepto 
+https://livess.jagobd.com.bd/somoy/deeptotv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Live Tv",Star Jalsha HD
 http://103.109.56.116/live/funtime112/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Live Tv",Star Jalsha HD
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTIxOpZ.png" group-title="Live Tv",Zee Bangla HD
 http://103.109.56.116/live/funtime111/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Live Tv",Colors Bangla HD
@@ -47,6 +69,8 @@ http://103.109.56.116/live/skyfeed1017/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/Enterr10_Bangla.jpeg" group-title="Live Tv",ENTER 10 BANGLA
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="Live Tv",SONY AATH
 http://103.109.56.116/live/skyfeed1016/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="Live Tv",SONY AATH
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 #EXTINF:-1 tvg-logo="https://alltimetrends.com/wp-content/uploads/2020/07/Star-plus-hd.jpg" group-title="Live Tv",STAR PLUS HD
 #EXTINF:-1 tvg-logo="https://cdn.clipart.email/8291b06b35c5c60621d830d0926a1a21_index-of-plexflixto-picons-indian-_1024-484.png" group-title="Live Tv",Zee Tv HD
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/SET_India.jpg/100px-SET_India.jpg" group-title="Live Tv",SONY HD
@@ -95,6 +119,52 @@ http://103.109.56.116/live/funtime1025/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://programmes.files.bbci.co.uk/programmes-frontend/images/logos/svg/bbc_world_news/service-5742221a20.svg" group-title="Live Tv",BBC WORLD
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://logowik.com/content/uploads/images/al-jazeera-tv6503.jpg" group-title="Live Tv",ALJAZEERA
 http://103.109.56.116/live/skyfeed1024/index.m3u8
+
+
+#EXTINF:-1 group-title="Live Tv" tvg-id="GBBB3800003JH" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB3800003JH_20220323T071458SQUARE.png_20220323071500.png" ,Moviedome
+https://i.mjh.nz/SamsungTVPlus/GBBB3800003JH.m3u8
+#EXTINF:-1 group-title="Live Tv" tvg-id="GBAJ400042T1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ400042T1_20230222T011314SQUARE.png_20230222011314.png" ,Sparkle Live Tv
+https://i.mjh.nz/SamsungTVPlus/GBAJ400042T1.m3u8
+#EXTINF:-1 group-title="Live Tv" tvg-id="GBBD500007TG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD500007TG_20230413T013222SQUARE.png_20230413013223.png" ,Grjngo - Western Live Tv
+https://i.mjh.nz/SamsungTVPlus/GBBD500007TG.m3u8
+#EXTINF:-1 group-title="Live Tv" tvg-id="GBBA3300050RG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA3300050RG_20220323T071656SQUARE.png_20220323071659.png" ,wedo Live Tv
+https://i.mjh.nz/SamsungTVPlus/GBBA3300050RG.m3u8
+#EXTINF:-1 group-title="Live Tv" tvg-id="GBAJ4900011Y4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ4900011Y4_20220323T071426SQUARE.png_20220323071430.png" ,Filmstream
+https://i.mjh.nz/SamsungTVPlus/GBAJ4900011Y4.m3u8
+#EXTINF:-1 group-title="Live Tv" tvg-id="GBBA3300020DM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA3300020DM_20230322T075406SQUARE.png_20230322075406.png" ,Romance Live Tv - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/GBBA3300020DM.m3u8
+#EXTINF:-1 group-title="Live Tv" tvg-id="GBBA33000557H" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA33000557H_20221201T014509SQUARE.png_20221201014510.png" ,Live Tvphere
+https://i.mjh.nz/SamsungTVPlus/GBBA33000557H.m3u8
+#EXTINF:-1 group-title="Live Tv" tvg-id="GBAJ400045P5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ400045P5_20220810T012605SQUARE.png_20220810012605.png" ,Popflix
+https://i.mjh.nz/SamsungTVPlus/GBAJ400045P5.m3u8
+#EXTINF:-1 group-title="Live Tv" tvg-id="GBBC90001660" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC90001660_20221012T015921SQUARE.png_20221012015922.png" ,Top Live Tv - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/GBBC90001660.m3u8
+#EXTINF:-1 group-title="Live Tv" tvg-id="GBAJ49000081B" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ49000081B_20220323T071414SQUARE.png_20220323071417.png" ,Drama Live Tv - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/GBAJ49000081B.m3u8
+#EXTINF:-1 group-title="Live Tv" tvg-id="GBAJ4900006TU" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ4900006TU_20220323T071344SQUARE.png_20220323071347.png" ,Action Live Tv - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/GBAJ4900006TU.m3u8
+
+#EXTINF:-1 group-title="Live Tv" tvg-id="GBBB5000002PL" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB5000002PL_20230823T033115SQUARE.png_20230823033116.png" ,Wild Planet
+https://i.mjh.nz/SamsungTVPlus/GBBB5000002PL.m3u8
+#EXTINF:-1 group-title="Live Tv" tvg-id="GBBC900015D3" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900015D3_20230712T021136SQUARE.png_20230712021136.png" ,Adventure Earth
+https://i.mjh.nz/SamsungTVPlus/GBBC900015D3.m3u8
+#EXTINF:-1 group-title="Live Tv" tvg-id="GBBA220000751" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA220000751_20230125T022345SQUARE.png_20230125022346.png" ,INWILD
+https://i.mjh.nz/SamsungTVPlus/GBBA220000751.m3u8
+#EXTINF:-1 group-title="Live Tv" tvg-id="GBBC4300002RW" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC4300002RW_20230125T022354SQUARE.png_20230125022354.png" ,WildEarth
+https://i.mjh.nz/SamsungTVPlus/GBBC4300002RW.m3u8
+#EXTINF:-1 group-title="Live Tv" tvg-id="GBBC300003UQ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC300003UQ_20231011T082518SQUARE.png_20231011082518.png" ,WaterBear
+https://i.mjh.nz/SamsungTVPlus/GBBC300003UQ.m3u8
+#EXTINF:-1 group-title="Factual Entertainment" tvg-id="GBBA22000063W" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA22000063W_20230426T015615SQUARE.png_20230426015616.png" ,Wonder
+https://i.mjh.nz/SamsungTVPlus/GBBA22000063W.m3u8
+#EXTINF:-1 group-title="Factual Entertainment" tvg-id="GBAJ4900009UA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ4900009UA_20230322T075400SQUARE.png_20230322075401.png" ,Documentaries - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/GBAJ4900009UA.m3u8
+#EXTINF:-1 group-title="Factual Entertainment" tvg-id="GBBD1100001UI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100001UI_20230510T044353SQUARE.png_20230510044353.png" ,World War TV
+https://i.mjh.nz/SamsungTVPlus/GBBD1100001UI.m3u8
+#EXTINF:-1 group-title="Factual Entertainment" tvg-id="GBBA2200005ZA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA2200005ZA_20230426T015613SQUARE.png_20230426015614.png" ,History Hit
+https://i.mjh.nz/SamsungTVPlus/GBBA2200005ZA.m3u8
+
+
+
 
 
 
