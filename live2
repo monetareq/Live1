@@ -57,14 +57,20 @@ https://livess.jagobd.com.bd/somoy/independent-8-org.stream/chunks.m3u8
 https://livess.jagobd.com.bd/somoy/dbcnews.stream/chunks.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="Live Tv",Deepto 
 https://livess.jagobd.com.bd/somoy/deeptotv.stream/chunks.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="Live Tv",Deepto 
+https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-manifest.m3u8
+#EXTINF:-1 ,কুমিল্লা-টিভি
+http://103.149.142.133/0.m3u8
+#EXTINF:-1 ,Btv
+http://103.230.105.252:1935/live/btv/manifest.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Live Tv",Star Jalsha HD
-http://103.109.56.116/live/funtime112/index.m3u8
+https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Live Tv",Star Jalsha HD
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTIxOpZ.png" group-title="Live Tv",Zee Bangla HD
-http://103.109.56.116/live/funtime111/index.m3u8
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Live Tv",Colors Bangla HD
-http://103.109.56.116/live/skyfeed1017/index.m3u8
+https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sun_Bangla.png" group-title="Live Tv",SUN Bangla HD
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/Enterr10_Bangla.jpeg" group-title="Live Tv",ENTER 10 BANGLA
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="Live Tv",SONY AATH
@@ -79,8 +85,10 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2023/05/Colors-Bangla-Cinema.png" group-title="Live Tv",Colors Bangla Cinema
 http://103.109.56.116/live/skyfeed1017/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_UCQ8r1-2dWimt7roVLe36t5hW6mayouhdA&usqp=CAU" group-title="Live Tv",Zee Bangla Cinema
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_298/ic_logo_sony_MaxHD.png" group-title="Live Tv",SONY MAX HD
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="Live Tv",Zee Cinema HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/zeecinemahd-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="Live Tv",Star Gold HD
 #EXTINF:-1 tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000050850000/PORTRAIT/hLnucnRV.png" group-title="Live Tv",Colours Cineplex
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="Live Tv",Sony Pix HD
@@ -93,20 +101,27 @@ http://103.109.56.116/live/skyfeed1019/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201907/sony-yay.jpg" group-title="Live Tv",Sony YAY
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/8c/23/ff/8c23ffe477717c21de730f66685c3972.png" group-title="Live Tv",Nick
 http://103.109.56.116/live/funtime110/index.m3u8
+#EXTINF:-1 ,Qatar TV 2 (720p)
+https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Live Tv",Sony Six HD
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="Live Tv",Sony Ten 1
-http://103.109.56.116/live/skyfeed1007/index.m3u8
+https://nayeem-parvez.pw/api/bioscope.m3u8?id=sony-ten-1-live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="Live Tv",Sony Ten 2
-http://103.109.56.116/live/skyfeed1008/index.m3u8
+https://nayeem-parvez.pw/api/bioscope.m3u8?id=sony-ten-2-live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="Live Tv",Sony Ten 3
+https://nayeem-parvez.pw/api/bioscope.m3u8?id=sony-ten-3-live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="Live Tv",Sony Ten 5
+https://nayeem-parvez.pw/api/bioscope.m3u8?id=sony-ten-5
 #EXTINF:-1,tvg-logo="https://cdn.clipart.email/b504e9913288900ca726a0a2b200e17b_star-sports-1-logopedia-fandom_250-196.png" group-title="Live Tv",Star Sports 1 HD
 http://103.109.56.116/live/skyfeed1002/index.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image04e6530896d42919.png" group-title="Live Tv",Star Sports 2 HD
-http://103.109.56.116/live/skyfeed1003/index.m3u8
+https://edge3-moblive.yuppcdn.net/trans1sd/smil:starsports2.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-select-hd-1-logo-300x300.jpg" group-title="Live Tv",Star Sports SELECT 1
 http://103.109.56.116/live/skyfeed1004/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="Live Tv",PTV SPORTS
 http://103.109.56.116/live/funtime107/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.financialexpress.com/wp-content/uploads/2022/04/image001-1.jpg" group-title="Live Tv",SPORTS 18
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_Khel_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Txphd_logo_2015.png" group-title="Live Tv",TRAVEL XP
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="Live Tv",National Geographic HD
 #EXTINF:-1 tvg-logo="https://nationalgeographicpartners.com/app/uploads/2020/11/nat-geo-wild-1.jpg" group-title="Live Tv",National Geographic Wild HD
@@ -144,6 +159,10 @@ https://i.mjh.nz/SamsungTVPlus/GBAJ49000081B.m3u8
 #EXTINF:-1 group-title="Live Tv" tvg-id="GBAJ4900006TU" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ4900006TU_20220323T071344SQUARE.png_20220323071347.png" ,Action Live Tv - Rakuten TV
 https://i.mjh.nz/SamsungTVPlus/GBAJ4900006TU.m3u8
 
+#EXTINF:-1 group-title="freecatv",Hollywood HD
+http://iptv.prosto.tv:7000/ch50/video.m3u8
+#EXTINF:-1 group-title="freecatv",Movie Sphere
+https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Live Tv" tvg-id="GBBB5000002PL" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB5000002PL_20230823T033115SQUARE.png_20230823033116.png" ,Wild Planet
 https://i.mjh.nz/SamsungTVPlus/GBBB5000002PL.m3u8
 #EXTINF:-1 group-title="Live Tv" tvg-id="GBBC900015D3" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900015D3_20230712T021136SQUARE.png_20230712021136.png" ,Adventure Earth
