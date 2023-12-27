@@ -502,8 +502,18 @@ https://weyyak-live.akamaized.net/weyyak_nawaem/index.m3u8
 #EXTINF:-1 tvg-id="YasTV.ae" tvg-logo="https://i.imgur.com/B7OiXCB.png" group-title="Undefined",Yas TV (1080p)
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 
-
-
+#EXTINF:-1 tvg-id="3TamilTV.au" tvg-logo="https://i.imgur.com/R43HJBp.png" group-title="Entertainment",3 Tamil TV (720p) [Not 24/7]
+https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+#EXTINF:-1 tvg-id="7SMusic.in" tvg-logo="https://i.imgur.com/zDiIhdN.png" group-title="Music",7S Music (576p) [Not 24/7]
+http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
+#EXTINF:-1 tvg-id="9XM.in" tvg-logo="https://i.imgur.com/F17QtN2.png" group-title="Music",9XM (480p)
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+#EXTINF:-1 tvg-id="AmritaTV.in" tvg-logo="https://i.imgur.com/WdSjlPl.png" group-title="Entertainment",Amrita TV (720p)
+https://dr1zhpsuem5f4.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="AnjanTV.in" tvg-logo="https://i.imgur.com/sh0yFSf.png" group-title="Undefined",Anjan (720p) [Not 24/7]
+https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8
+#EXTINF:-1 tvg-id="AshrafiChannel.in" tvg-logo="https://i.imgur.com/IXpFcJA.png" group-title="Undefined",Ashrafi Channel (484p) [Not 24/7]
+https://ashrafichannel.livebox.co.in/ashrafivhannelhls/live.m3u8
 
 
 
