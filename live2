@@ -2,23 +2,23 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5e/ATN_Islamic_TV_Logo.png" group-title="Live Tv",ATN Islamic TV
 https://livess.jagobd.com.bd/live-orgin/atnislamictv.stream/chunks.m3u8
 #EXTINF:-1 group-title="Live Tv" tvg-logo="https://i.imgur.com/GQhXlx8.jpg",Madina Tv
-http://10.1.100.38:5080/WebRTCApp/streams/58x8XgWbdsVTsNFe1705919488733.m3u8
+https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/madina.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Live Tv" tvg-logo="https://i.imgur.com/9gffd60.png",Makkah Tv
-http://10.1.100.38:5080/WebRTCApp/streams/Zo61PMYVjs4cR64J1705919525268.m3u8
+https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Live Tv" tvg-logo="https://i.ibb.co/5vFbq01/images-28.jpg",Quran Bangla
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/iqrabanglatvoffice.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pJhdZme.png" group-title="Live Tv", Al Dawah 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t4FS3Hr.png" group-title="Live Tv", Quran TV
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Live Tv",T Sports HD
-http://10.1.100.38:5080/LiveApp/streams/kO2Fh3uVxKVzJlZ61705918013634.m3u8
+http://103.109.56.116/live/skyfeed1005/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Live Tv",T Sports HD
-http://10.1.100.38:5080/WebRTCApp/streams/ssVqKuoawLhoaEuo1705918567786.m3u8
+http://113.212.111.246:8080/hls/col12.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Live Tv",T Sports HD
 http://10.1.100.38:5080/WebRTCApp/streams/NYeR9BPBWVhoUdhh1705923230821.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Live Tv",GAZI TV
 http://103.141.2.37:25461/live/web/web/592.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Live Tv",GAZI TV
-http://10.1.100.38:5080/WebRTCApp/streams/6ZXbKchlYdTOxPY01705919837506.m3u8
+http://103.109.56.116/live/skyfeed1006/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Live Tv",GAZI TV
 http://10.1.100.38:5080/WebRTCApp/streams/vvzD2t76kqbmdXIX1705924461232.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Green_TV_Logo.png" group-title="Live Tv",GREEN TV
