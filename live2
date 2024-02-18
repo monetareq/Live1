@@ -170,9 +170,8 @@ https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f
 #EXTINF:-1 tvg-id="" tvg-name="AND PICTURES HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/%26pictures.svg/revision/latest?cb=20201011095253" group-title="Live Tv", AND PICTURES HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/andpictureshd-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Live Tv CREATION" tvg-logo="https://Live Tvcreation.tv/wp-content/uploads/2022/11/Live TvCreation-Logo-1.png" group-title="Live Tv", Live Tv CREATION
-https://vods1.aynaott.com/Live Tvcreation_test/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.adgully.com/img/400/2010-05-Cartoon-Network-and-Pogo.jpg" grouptitle="Live Tv",POGO
-https://i.mjh.nz/SamsungTVPlus/INBD1300021X3.m3u8
+https://food-dlvr-ott.akamaized.net/primary/1/d9c0812d4aaf40599540a35be89fb629/index_25.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201907/sony-yay.jpg" group-title="Live Tv",Sony YAY
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/8c/23/ff/8c23ffe477717c21de730f66685c3972.png" group-title="Live Tv",Nick
 http://himeop-premium.ddns.net:25461/live/web/web/615.ts
@@ -225,6 +224,7 @@ http://113.212.111.246:8080/hls/col12.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS" tvg-logo="https://i.ibb.co/k4FQmvs/Picsart-23-06-07-15-31-28-702.png" group-title="Live Tv", ESPN+
 #EXTINF:-1 tvg-id="" tvg-name="LIVE FOOTBALL" tvg-logo="https://i.ibb.co/VTJ86vp/Picsart-23-06-27-22-48-28-222.png" group-title="Live Tv", LIVE FOOTBALL (180P)
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1300000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/VTJ86vp/Picsart-23-06-27-22-48-28-222.png" group-title="Live Tv", LIVE FOOTBALL (360P)
 #EXTINF:-1 tvg-id="" tvg-name="LIVE FOOTBALL" tvg-logo="https://i.ibb.co/VTJ86vp/Picsart-23-06-27-22-48-28-222.png" group-title="Live Tv", LIVE FOOTBALL (720P)
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
