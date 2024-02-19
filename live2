@@ -26,9 +26,13 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Green_TV_Logo.png" group-title="Live Tv",GREEN TV
 https://livess.jagobd.com.bd/somoy/greentv.stream/chunks.m3u8
 #EXTINF:-1 group-title="Live Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/24/Nagorik_TV_Logo.png",NAGORIK TV 
-http://172.16.29.242:8080/show/5007/index.m3u8
+http://pgplex.net:8080/NagorikTV/index.m3u8
+#EXTINF:-1 group-title="Live Tv" tvg-logo="https://i.postimg.cc/8c9Y58zZ/1200px-Ekattor-TV-logo-svg.png",Ekattor TV
+https://ythls.armelin.one/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/2560px-ATN_Bangla.svg.png" group-title="Live Tv", ATN Bangla
 https://livess.jagobd.com.bd/somoy/atnbd-8-org.stream/chunks.m3u8
+#EXTINF:-1 group-title="Live Tv" tvg-logo="https://i.postimg.cc/kgLbNbbM/3usnOla.png",NTV
+https://uniflixbd.xyz/unuse/payplay/live.php?id=ab8f5b2fee47&e=.m3u8
 #EXTINF:-1, tvg-logo="https://atnmusic.tv/images/logo.png" group-title="Live Tv",ATN Music
 https://livess.jagobd.com.bd/somoy/atnmusic.stream/chunks.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5e/ATN_Islamic_TV_Logo.png" group-title="Live Tv",ATN Islamic
@@ -44,7 +48,7 @@ https://livess.jagobd.com.bd/somoy/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/ChanneliBD.png/revision/latest?cb=20200206105403" group-title="Live Tv",Channel I
 https://livess.jagobd.com.bd/somoy/channeli-8-org.stream/chunks.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/1200px-Ekushey_Television_Logo.svg.png" group-title="Live Tv",Ekushey Tv
-https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+http://pgplex.net:8080/EkusheyTv/index.m3u8
 #EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/HB_K5ZUcWFfYBcST4buqJ_Oq3g16g4F8jbWLV3jrytGLcWks9ld0R_8ccdxDS_9gqPyP" group-title="Live Tv",Jamuna Tv
 https://livess.jagobd.com.bd/somoy/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/1200px-Mohona_tv_Logo.svg.png" group-title="Live Tv",Mohona Tv
@@ -84,6 +88,10 @@ http://livess.jagobd.com.bd/live-orgin/globaltv.stream/chunks.m3u8
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglatvhd.stream/live-orgin/banglatvhd.stream/chunks.m3u8
 #EXTINF:-1 group-title="Live Tv" tvg-logo="https://i.imgur.com/sYZOVV5.png",Anando Tv
 http://cdn01.palki.tv/live/AnandaTV-M/index.m3u8
+#EXTINF:-1 group-title="Live Tv" tvg-logo="https://i.postimg.cc/pX8gbwgq/Desh-TV.jpg",Desh TV
+https://uniflixbd.xyz/unuse/payplay/live.php?id=09958247947d&e=.m3u8
+#EXTINF:-1 group-title="Live Tv" tvg-logo="https://i.postimg.cc/2jbY6Cg3/fxq0pV2.png",Asian TV
+https://uniflixbd.xyz/unuse/payplay/live.php?id=a28a3f18e5b5&e=.m3u8
 #EXTINF:-1 group-title="Live Tv" tvg-logo="https://i.postimg.cc/287QXZ3y/received-290233916344055.jpg",Rajdhani TV
 https://rajdhani.jaagobd.com/rajdhanitv/rajdhanitv.stream/chunks.m3u8
 #EXTINF:-1 group-title="Live Tv" tvg-logo="https://i.postimg.cc/KzZQbtLb/Jo7wzmn.png",Gaan Bangla
@@ -92,8 +100,9 @@ http://cdn01.palki.tv/live/GaanBangla-M/tracks-v2a1/mono.m3u8
 https://iptvbd.live/test/1080.m3u8
 #EXTINF:-1 ,কুমিল্লা-টিভি
 http://103.149.142.133/0.m3u8
+#EXTINF:-1 group-title="Live Tv" tvg-logo="https://i.postimg.cc/dQzvq7M2/FBTV.jpg",Florida Bangla TV
+http://162.244.81.200:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 ,Btv
-http://103.230.105.252:1935/live/btv/manifest.mpd
 #EXTINF:-1 group-title="Live Tv" tvg-logo="https://i.imgur.com/eJS0vGk.jpg",BTV World
 http://cdn01.palki.tv/live/BTVWorld-M/index.m3u8
 #EXTINF:-1 group-title="Live Tv" tvg-logo="https://i.imgur.com/r2YjB0s.png",BTV Chottogram 
@@ -101,31 +110,43 @@ http://cdn01.palki.tv/live/BTVChattogram-M/index.m3u8
 #EXTINF:-1 group-title="Live Tv" tvg-logo="https://i.imgur.com/8nRyyAu.png",Sangsad Tv
 http://cdn01.palki.tv/live/SangsadTV-M/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Live Tv",Star Jalsha HD
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-HD/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Live Tv",Star Jalsha HD
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTIxOpZ.png" group-title="Live Tv",Zee Bangla HD
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla/default/index.m3u8
+http://pgplex.net:8080/ZeeBanglaHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Live Tv",Colors Bangla HD
+https://uniflixbd.xyz/unuse/payplay/live.php?id=cb074ae82cd0&e=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sun_Bangla.png" group-title="Live Tv",SUN Bangla HD
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/Enterr10_Bangla.jpeg" group-title="Live Tv",ENTER 10 BANGLA
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="Live Tv",SONY AATH
+https://uniflixbd.xyz/unuse/payplay/live.php?id=e96cb72a3787&e=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="Live Tv",SONY AATH
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 #EXTINF:-1 tvg-logo="https://alltimetrends.com/wp-content/uploads/2020/07/Star-plus-hd.jpg" group-title="Live Tv",STAR PLUS HD
 #EXTINF:-1 tvg-logo="https://cdn.clipart.email/8291b06b35c5c60621d830d0926a1a21_index-of-plexflixto-picons-indian-_1024-484.png" group-title="Live Tv",Zee Tv HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetvhd/default/zeetvhd-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 group-title="Live Tv" tvg-logo="https://i.postimg.cc/xTj2gSp8/image.jpg", & Tv HD
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/andtvhd-audio_208482_und=208000-video=1087600.m3u8
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/SET_India.jpg/100px-SET_India.jpg" group-title="Live Tv",SONY HD
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1217203728224145408/XWWCL0Zz_400x400.jpg" group-title="Live Tv",STAR BANGLA
+https://uniflixbd.xyz/unuse/payplay/live.php?id=23bff287b2d9&e=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Live Tv",Jalsha Live Tv HD
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-MOVIES-HD/video.m3u8 
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2023/05/Colors-Bangla-Cinema.png" group-title="Live Tv",Colors Bangla Cinema
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Khushboo_Bangla.jpeg" group-title="Live Tv", KHUSHBOO BANGLA
-http://103.223.14.56:8000/play/a0ti/index.m3u8
+http://idvd.multitvsolution.com/idvo/khushboo.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_UCQ8r1-2dWimt7roVLe36t5hW6mayouhdA&usqp=CAU" group-title="Live Tv",Zee Bangla Cinema
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema/default/index.m3u8
+http://pgplex.net:8080/ZeeBanglaCinema/index.m3u8
+#EXTINF:-1 group-title="Live Tv" tvg-logo="https://i.postimg.cc/WpgvGbFD/Tarabc.jpg",Tara Bangla Cinema
+http://103.145.48.150:90/laosat23/taratv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Live Tv" tvg-logo="https://i.postimg.cc/KjtnMyXT/image.png",Hum TV
+http://195.26.87.217/live.ts?channelId=422&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 group-title="Live Tv" tvg-logo="https://i.postimg.cc/x8hvyWQ7/Green-Ent-Logo.png",Green TV Entertainment HD
+http://172.105.123.238:6001/play/a00m
 #EXTINF:-1 tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_298/ic_logo_sony_MaxHD.png" group-title="Live Tv",SONY MAX HD
+https://uniflixbd.xyz/unuse/payplay/live.php?id=41559a92a8db&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="Live Tv",Zee Cinema HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/zeecinemahd-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 group-title="Live Tv" tvg-logo="https://i.postimg.cc/q7rP4LNF/Zee-Anmol.png",Zee Anmol
@@ -174,7 +195,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/andpictureshd-
 https://food-dlvr-ott.akamaized.net/primary/1/d9c0812d4aaf40599540a35be89fb629/index_25.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201907/sony-yay.jpg" group-title="Live Tv",Sony YAY
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/8c/23/ff/8c23ffe477717c21de730f66685c3972.png" group-title="Live Tv",Nick
-http://himeop-premium.ddns.net:25461/live/web/web/615.ts
+https://uniflixbd.xyz/unuse/payplay/live.php?id=fd1444ce2617&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/w0t5F0x/Picsart-23-06-28-20-06-04-060.png" group-title="Live Tv", SPACETOON
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/zFFBFCS/Picsart-23-06-07-18-33-22-817.png" group-title="Live Tv", DISCOVERY Live Tv
@@ -193,10 +214,14 @@ http://103.109.56.116/live/skyfeed1002/index.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image04e6530896d42919.png" group-title="Live Tv",Star Sports 2 HD
 http://103.109.56.116/live/skyfeed1003/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-select-hd-1-logo-300x300.jpg" group-title="Live Tv",Star Sports SELECT 1
+http://pgplex.net:8080/StarSportsSelect1/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-select-hd-1-logo-300x300.jpg" group-title="Live Tv",Star Sports SELECT 2
+http://pgplex.net:8080/StarSportsSelect2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/TNT_Sports_Division_Logo.png" group-title="Live Tv", TNT SPORTS
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="Live Tv",PTV SPORTS
-http://10.1.100.38:5080/WebRTCApp/streams/X2DgWkjKk4ZCEppa1705924879992.m3u8
+http://pgplex.net:8080/PTVSports/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.financialexpress.com/wp-content/uploads/2022/04/image001-1.jpg" group-title="Live Tv",SPORTS 18
+http://pgplex.net:8080/Sports18HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/TNT_Sports_Division_Logo.png" group-title="Live Tv", TNT SPORTS 1
 https://247c.mrgamingstreams.com/mrgamingbtsport1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WILLOW HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Willow_Cricket.PNG" group-title="Live Tv", WILLOW HD
@@ -205,9 +230,11 @@ https://247b.mrgamingstreams.com/mrgamingwillow.m3u8
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Txphd_logo_2015.png" group-title="Live Tv",TRAVEL XP
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="Live Tv",National Geographic HD
+http://pgplex.net:8080/WildEarth/index.m3u8
 #EXTINF:-1 tvg-logo="https://nationalgeographicpartners.com/app/uploads/2020/11/nat-geo-wild-1.jpg" group-title="Live Tv",National Geographic Wild HD
 #EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Discovery-Asia.png" group-title="Live Tv",Discovery
 #EXTINF:-1 tvg-id="" tvg-name="Sony BBC Earth HD" tvg-logo="http://roarmediazone.com/tv/weblogo/23.jpg" group-title="Live Tv",Sony BBC Earth HD
+https://uniflixbd.xyz/unuse/payplay/live.php?id=36767e3b0bda&e=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="Live Tv",ANIMAL PLANET HD
 https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IEwWaEN.png" group-title="Live Tv", 9XM 
@@ -265,3 +292,496 @@ https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AMC.af" tvg-logo="https://play-lh.googleusercontent.com/MYcrmTg-2FfK3mVvNsjttNsXXTLfUG7i3QjMd0fzticooxMwLMK0NQdyQSMnF0iC9lg" group-title="Live Tv",AMC (1080p)
 https://amchls.wns.live/hls/stream.m3u8
+
+
+
+#EXTINF:-1 group-title="Animation Movies" tvg-logo="https://i.postimg.cc/k43SfBq6/A-Whisker-Away-2020.jpg",A Whisker Away (2020)
+https://s.id/21r8i
+#EXTINF:-1 group-title="Animation Movies" tvg-logo="https://i.postimg.cc/vm6BYDWD/Amader-Chotto-Russell-Shona-2023.jpg",Amader Chotto Russell Shona (2023) Shorts
+https://s.id/21pqO
+#EXTINF:-1 group-title="Animation Movies" tvg-logo="https://i.postimg.cc/CK9MBYF5/Blue-Eye-Samurai-2023.jpg",Blue Eye Samurai (2023) S01
+https://s.id/21psj
+#EXTINF:-1 group-title="Animation Movies" tvg-logo="https://i.postimg.cc/x1TTzXY6/Chicken-Run-Dawn-of-the-Nugget-2023.jpg",Chicken Run Dawn of the Nugget (2023)
+https://s.id/21pqF
+#EXTINF:-1 group-title="Animation Movies" tvg-logo="https://i.postimg.cc/x1M67Rbp/Chhota-Bheem-Aur-Registaan-Ka-Shehenshah-2023.jpg",Chhota Bheem Aur Registaan Ka Shehenshah (2023)
+https://s.id/21ps6
+#EXTINF:-1 group-title="Animation Movies" tvg-logo="https://i.postimg.cc/7hjyBhrv/p-disney-elemental-v4-793-7f6b85ae.jpg",Elemental (2023)
+https://s.id/21ps0
+#EXTINF:-1 group-title="Animation Movies" tvg-logo="https://i.postimg.cc/MK76nyBk/Migration-2023.jpg",Migration (2023)
+https://s.id/21pqu
+#EXTINF:-1 group-title="Animation Movies" tvg-logo="https://i.postimg.cc/26KvJSBC/Mummies-757383438-large.jpg",Mummies (2023)
+https://s.id/21prO
+#EXTINF:-1 group-title="Animation Movies" tvg-logo="https://i.postimg.cc/9QVsV0HB/Teenage-Mutant-Ninja-Turtles-Mutant-Mayhem-2023.jpg",Teenage Mutant Ninja Turtles Mutant Mayhem (2023)
+https://s.id/21psp
+#EXTINF:-1 group-title="Animation Movies" tvg-logo="https://i.postimg.cc/bvQpn42Q/Nimona-Poster.jpg",Nimona (2023)
+https://s.id/21rd1
+#EXTINF:-1 group-title="Animation Movies" tvg-logo="https://i.postimg.cc/YCBzhJ1N/Orion-and-the-Dark-2024.jpg",Orion and the Dark (2024)
+https://s.id/21rne
+#EXTINF:-1 group-title="Animation Movies" tvg-logo="https://i.postimg.cc/vTDj1ZFH/Trolls-Band-Together-2023.jpg",Trolls Band Together (2023)
+https://s.id/1ZCX1
+#EXTINF:-1 group-title="Animation Movies" tvg-logo="https://i.postimg.cc/QdP03Hnd/up.jpg",Up (2009)
+https://s.id/21qAW
+#EXTINF:-1 group-title="Animation Movies" tvg-logo="https://i.postimg.cc/XqZLz5wW/p-walle-19753-69f7ff00.jpg",WALL·E (2008)
+https://s.id/21qB7
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/C1cGGT00/n-Zev-TU8-CHg-GPKv-QMaz-Br9-Ok-Foxm.jpg",Abar Bibaho Obhijaan (2023)
+https://s.id/1Zrlh
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/tgmtKG1g/adventure-of-sundarbans-bengali-movie-indian-film-history.jpg",Adventure Of Sundarban (2023)
+https://s.id/1Zrlw
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/kgQpB31W/Amazon-Obhijaan-2017.jpg",Amazon Obhijaan (2017)
+https://s.id/21qIf
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/76454SBZ/Ami-Ki-Tumi-2023-S01.png",Ami Ki Tumi (2023) S01
+https://s.id/1ZxWi
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/63hypTSL/Angshuman-MBA-2023.jpg",Angshuman MBA (2023)
+https://s.id/1ZxWk
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/ydXtfVRs/Antormahal-2023-S01-Bengali-Hoichoi-WEB-DL-H264-AAC-1080p-720p-480p-Downloa.jpg",Antormahal (2023) S01
+https://s.id/1ZocW
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/4dDv3vQk/Antarjal2023.jpg",Antarjal (2023) 
+https://s.id/1ZnRx
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/8zFJmpJN/Apolap-2023.jpg",Apolap (2023)
+https://s.id/1ZxWo
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/xTSyDRdL/Ardhangini-2023.jpg",Ardhangini (2023)
+https://s.id/1ZocY
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/xCCpmPmX/e79-Ku-Y3-Xv-NEQgz0-IZm-Hwz-XNrkwe.jpg",Baba Someones Following Me (2023)
+https://s.id/1ZodS
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/QC4rZtrz/yw-NE4-Ne-Ux-Uj-VU2goe-KF0-Mbha-MYs.jpg",Bhoy (2023)
+https://s.id/1Zrn1
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/B6HLMrHk/Biye-Bibhrat-2023.jpg",Biye Bibhrat (2023)
+https://s.id/1Zohh
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/T1xyStcw/bwmisextrm.jpg",Black War Mission Exteme 2 (2023)
+https://s.id/1ZrnM
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/yd7t2sRR/booking2024.jpg",Booking (2024)
+https://worker-wild-lab-a48a.assadikb.workers.dev/0:/Booking.2024.720p.mkv
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/RFVyRBkV/Daal-Baati-Churma-2023.png",Daal Baati Churma (2023)
+https://s.id/1ZxWx
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/hj2WWjLd/Datta-2023.jpg",Datta (2023)
+https://s.id/1ZoiE
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/MKZT9y97/Dawshom-Awbotaar.jpg",Dawshom Awbotaar (2023)
+https://s.id/21psD
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/NjVvQLRG/Doctor-Bakshi-2023.jpg",Doctor Bakshi (2023)
+https://s.id/20Dt7
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/HxhGMFJ7/dukkhito2024.jpg",Dukkhito (2024)
+https://worker-wild-lab-a48a.assadikb.workers.dev/0:/Dukkhito.2024.720p.BongoBD.mkv
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/zvywztgk/7-Zw-JTsah-IOxog6ib-NFM4s-M2cv70.jpg",Durgo Rawhoshyo (2023) S01
+https://s.id/1Zojh
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/RC3457YC/Fatafati-2023.jpg",Fatafati (2023)
+https://s.id/1ZxWB
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/YSnKT0fm/Firey-Dekha-2023.jpg",Firey Dekha (2023)
+https://s.id/1ZxWH
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/gJxFppNt/Friday-2023.jpg",Friday (2023)
+https://s.id/1ZrnQ
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/prqhqyJX/Gangster-Returns-2023.jpg",Gangster Returns (2023)
+https://s.id/1ZxX8
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/CLrn8BKc/GPL-2023.jpg",GPL (2023)
+https://s.id/1ZxWP
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/nrgpCHjp/Haami-2-2022.jpg",Haami 2 (2022)
+https://s.id/21rks
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/JhCSq5df/Hubba-2024.jpg",Hubba (2024)
+https://s.id/21pfu
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/jqJ2QYth/Jaha-Bolibo-Shotto-Bolibo-2024-S01.png",Jaha Bolibo Shotto Bolibo (2024) S01
+https://s.id/1ZATF
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/LsC5vHJx/Joy-Bangla-2023.jpg",Joy Bangla (2023)
+https://s.id/1ZxXg
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/4xcg7XgD/ddd0000.jpg",Kadambari Aajo (2023)
+https://s.id/1ZojY
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/sxS2V7wL/Kagoj-2023.jpg",Kagoj The Paper (2022)
+https://s.id/1ZxXo
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/yxfLNf9M/image.png",Khelaa Ssuru (2023) S01
+https://s.id/1Zole
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/NMvhrVNW/Kolonko-2024-S01.jpg",Kolonko (2024) S01
+https://s.id/20DtJ
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/cCQsqZJy/kuhelika.jpg",Kuhelika (2023)
+https://s.id/1ZroL
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/c4fLM39n/image.png",Kumudini Bhavan (2023) S01
+https://s.id/1Zonp
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/W334Gbtq/Lady-Queen-Gents-Parlour-2023.jpg",Lady Queen Gents Parlour (2023) S01
+https://s.id/1Zoow
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/XNQrMG9n/Lal-Boler-Shopno-2023-S01.png",Lal Boler Shopno (2023) S01
+https://s.id/1ZxYP
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/fWXWS7f2/Lal-Shari-2023-Bengali-WEB-DL-H264-AAC-1080p-720p-480p-Downloa.jpg",Lal Shari (2023)
+https://s.id/1ZnSQ
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/Qx38QB6X/Language-Problem-2023-S01.jpg",Language Problem (2023) S01
+https://s.id/1ZxYQ
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/hjmnxgTz/Local-2023-Bengali-WEB-DL-H264-AAC-1080p-720p-480p-Download.jpg",Local (2023)
+https://s.id/1ZnUN
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/Vkv3nmcf/Love-Marriage-2023.jpg",Love Marriage (2023)
+https://s.id/1ZxYT
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/cJ82khHP/made-in-chittagong-scaled.jpg",Made in Chittagong (2023)
+https://s.id/1ZrpG
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/4xL0nPdX/Mitter-Parar-Maradona-2018.jpg",Mitter Parar Maradona (2018)
+https://s.id/21rcH
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/mDydK5Gp/Mobaroknama-2023.jpg",Mobaroknama (2023) S01
+https://s.id/1ZnUl
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/tJRrbNqq/Mohanagar-2023.jpg",Mohanagar (2023) S02
+https://s.id/1Znk4
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/j2g2ymRD/Momo-The-game-of-death-2023.jpg",Momo - The game of death (2023)
+https://s.id/1ZxYZ
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/x8QpMxB7/Mone-Rekho-2018.jpg",Mone Rekho (2018)
+https://s.id/21r7S
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/x8QpMxB7/Mone-Rekho-2018.jpg",Mone Rekho (2018)
+https://s.id/21r7X
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/MZLbPSC3/3r-RPXYIe7zd-Xef-San95zeh0-Zm4-X.jpg",Mr Kolketa (2023) S01
+https://s.id/1Zood
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/KYXJj2Gs/Myself-Allen-Swapan-2023-S01.jpg",Myself Allen Swapan (2023) S01
+https://s.id/1ZxZI
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/6qQhg6cT/Natok-Korish-Na-Toh-2023-S01.jpg",Natok Korish Na Toh (2023) S01
+https://s.id/1ZxZ5
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/K8RfKZv4/Neel-Joler-Kabyo-2023-Bengali-i-Screen-WEB-DL-H264-AAC-1080p-720p-480p-ESu.png",Neel Joler Kabyo (2023)
+https://s.id/1Zooe
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/13QWBS6h/1920x770cb5d98e4586a4c818e2a0288de9a6800.jpg",Nikhonj The Search Begins (2023)
+https://s.id/1Zooi
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/Gm6vKJ6B/image_12.png",Odrisshyo (2023) S01
+https://s.id/1Zoso
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/cCdVF3Gh/Osomoy-2024.jpg",Osomoy (2024)
+https://s.id/20DtM
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/G21JWHJD/Parbona-Ami-Chartey-Tokey-2015.jpg",Parbona Ami Chartey Tokey (2015)
+https://s.id/21qHB
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/pr9FKmkQ/Parnashavarir-Shaap-2023.jpg",Parnashavarir Shaap (2023) S01
+https://s.id/1ZosB
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/TPGgBYYG/Patalghor-2023.jpg",Patalghor (2023)
+https://s.id/1ZxZR
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/59X8qPWk/Petni-2023-S01-Bengali-AT-WEB-DL-H264-AAC-1080p-720p-480p-ESu.jpg",Petni (2023) S01
+https://s.id/1ZosH
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/B67F8T5Q/Picasso-2023-S01-Bengali-Klikk-WEB-DL-H264-AAC-1080p-720p-480p-Downloa.jpg",Picasso (2023) S01
+https://s.id/1ZosK
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/c4ccHFq9/image.png",Pilkunj (2023) S01
+https://s.id/1Zoti
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/MGWfdPdp/Prem-Pritir-Bondhon-2023.jpg",Prem Pritir Bondhon (2023)
+https://s.id/1Zy0v
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/9M0Rj433/Priyotoma-2023.jpg",Priyotoma (2023)
+https://s.id/1ZouE
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/7ZPqRF8d/leavr-Z2-FQWd-Mf-HIhhilt-Cb-PYMR7.jpg",Procholito (2023) S01
+https://s.id/1ZouA
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/prqPVCKq/v-ZFGc-Tb97x-OAg-B9lw-UEK1-Ly-PVa-Q.jpg",Prohelika (2023)
+https://s.id/1ZouJ
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/3xjDj5jq/Puff-Daddy-2023.jpg",Puff Daddy (2023)
+https://s.id/1ZowH
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/pV5qtrJM/1695304645184-1070x1585-3x4-Images.jpg",Punormilone (2023)
+https://s.id/1ZowJ
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/zfBHwhX5/image.png",Raja Rani Romeo (2023) S01
+https://s.id/1ZnUa
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/gcS2t9PJ/Saatao-2023.jpg",Saatao (2023)
+https://s.id/1Zy0n
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/PxhM9k0v/Shesh-Rokkha-2024.jpg",Shesh Rokkha (2024)
+https://s.id/1ZWVu
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/PqdbkZFG/shibpur-et00362728-1687513150.jpg",Shibpur (2023)
+https://s.id/1ZowP
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/Sxmd6GLz/Shohore-Onek-Rod-2023.jpg",Shohore Onek Rod (2023)
+https://s.id/21roq
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/VLXGrDRx/image.png",Sin Whispers Of Guilt (2023) S01
+https://s.id/1ZnWb
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/q7MXzvfw/Sinpaat-2024-S01.jpg",Sinpaat (2024) S01
+https://s.id/1ZWX7
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/639BC32d/Something-Like-an-Autobiography-2023.jpg",Something Like an Autobiography (2023)
+https://s.id/1Zoxa
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/15GpBqsM/sujonmaji.jpg",Sujon Majhi (2023)
+https://s.id/1Zoxk
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/C5Wf7w63/Picsart-23-08-24-23-34-59-939.jpg",Surongo (2023)
+https://s.id/1ZmT4
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/QCLTkXzR/tarokar-mrityu-et00369011-1693986830.jpg",Tarokar Mrityu (2023)
+https://s.id/1Zox5
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/k5z6qJ7B/Taksal-2023.png",Taksal (2023)
+https://s.id/1Zy0G
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/5t6YhYdh/Tenida-and-Company-2023.jpg",Tenida and Company (2023)
+https://s.id/1ZoxB
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/Z54NhmBt/Tikit-2024.jpg",Tikit (2024) S01
+https://s.id/21pql
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/1Rpn1123/The-Beauty-Circus-2023.jpg",The Beauty Circus (2022)
+https://s.id/1ZrpU
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/GhdBcSnJ/The-Nandini-Murder-Case.jpg",The Nandini Murder Case (2023) S01
+https://s.id/1Zozm
+#EXTINF:-1 group-title="Bangla Movies" tvg-logo="https://i.postimg.cc/htwP726Y/Unish-20-2023.jpg",Unish 20 (2023) 
+https://s.id/1ZrqU
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/C59GzGCp/7-11-PM-2023.jpg",7:11 PM (2023)
+https://s.id/1ZmUc
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/c4gHhyWm/image_40.png",11th Hour (2023) S01E01-04
+https://s.id/1ZobT
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/c4gHhyWm/image_40.png",11th Hour (2023) S01E05-08
+https://s.id/1ZobY
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/RZ51mTVc/12fail.jpg",12th Fail (2023)
+https://s.id/1ZmS3
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/mgym6nNc/80023.jpg",800 (2023)
+https://s.id/1ZrAN
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/Jhfq0vQb/Animal-2023-film-poster.jpg",Animal (2023)
+https://s.id/212hs
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/j5JRQwNp/Annapoorani-film-poster.jpg",Annapoorani (2023)
+https://s.id/1Zn1R
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/VLB9YCSp/Apurva-2023.jpg",Apurva (2023)
+https://s.id/1ZxeG
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/66cksLjK/dde15a8ee1549cbe213a6a5e454a630a.jpg",Athidhi (2023) S01
+https://s.id/1Zoeb
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/3N0XFGpD/Ayalaan-2024.jpg",Ayalaan (2024)
+https://s.id/21rnI
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/3N0XFGpD/Ayalaan-2024.jpg",Ayalaan (2024) Dual Audio
+https://cdn31719582.blazingcdn.net/ottbangla.shop-Ayalaan%20(2024)-Dual%20Audio%20%5BHindi%20HQ-Tamil%5D%20WEB-DL%20720p.mkv
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/tT3Kd5w7/Banaras-2022.jpg",Banaras (2022)
+https://s.id/20Dr8
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/sgHhX936/Bawaala345212ca17cdbcf.jpg",Bawaal (2023)
+https://s.id/1ZoAu
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/FKfJJdR9/Bhagavanth-Kesari-2023.jpg",Bhagavanth Kesari (2023)
+https://s.id/1ZxeS
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/9MgmP1NK/image_56.jpg",Calling Sahasra (2023)
+https://s.id/1ZoBp
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/6qzQPt3j/Captain-Miller-2024.png",Captain Miller (2024)
+https://s.id/21E4N
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/HWtjn42w/Chandramukhi-2-2023.jpg",Chandramukhi 2 (2023)
+https://s.id/1Zuul
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/0j9QZb8K/Chhatriwali-2023.jpg",Chhatriwali (2023)
+https://s.id/1ZEKB
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/RV6xcJdz/Untitled.jpg",Charlie Chopra & The Mystery of Solang Valley (2023) S01
+https://s.id/1Zohn
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/63rqddNN/Chatrapathi-2023.jpg",Chatrapathi (2023)
+https://s.id/1Zxf0
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/KcNMZshS/Cheeni-2-2023.jpg",Cheeni 2 (2023)
+https://s.id/1ZxWs
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/hjNFPYYD/F-Ois9h-X0-AAZ7-PZ.jpg",Chevvaikizhamai (2023)
+https://s.id/1ZrB5
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/m22kHzX0/Chithha-2023.jpg",Chithha (2023)
+https://s.id/1ZuMh
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/KvHG39gM/Conjuring-Kannappan-2023.jpg",Conjuring Kannappan (2023)
+https://s.id/1ZATt
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/rF3TwKvG/Custody-2023.jpg",Custody (2023)
+https://s.id/1Zxfl
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/Fsdt8h7Y/DD-Returns-2023.jpg",DD Returns (2023)
+https://s.id/1Zuv8
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/bJCMV5P0/Detective-Karthik-2023.jpg",Detective Karthik (2023)
+https://s.id/1ZuMk
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/SRrp4rfH/Devil-2023.jpg",Devil (2023)
+https://s.id/20DsY
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/Y0TPMmhh/Dhak-Dhak-2023.jpg",Dhak Dhak (2023)
+https://s.id/1Zuve
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/xTb7gg4H/Dhoomam-2023.jpg",Dhoomam (2023)
+https://s.id/1ZuNu
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/Mp2LLRCL/Dono-2023.jpg",Dono (2023)
+https://s.id/1ZATz
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/W4sHNVb6/Dry-Day-2023.jpg",Dry Day (2023)
+https://s.id/1ZuvT
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/RZ4kFKgH/GXApkdu.jpg",Dunki (2023)
+https://worker-wild-lab-a48a.assadikb.workers.dev/0:/Dunki.2023.720p.Hindi.WEB-DL%20ottbangla.shop.mkv
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/rwzL650Y/Extra-Ordinary-Man-2023.jpg",Extra Ordinary Man (2023)
+https://s.id/20Dth
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/8z50x4Dz/Fighter-2024.jpg",Fighter (2024)
+https://s.id/2128g
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/05JRH86b/Fukrey-3-2023.jpg",Fukrey 3 (2023)
+https://s.id/1Zxfu
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/9F536vT1/Ghoomer-2023.jpg",Ghoomer (2023)
+https://s.id/1Zxfw
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/6qZk70sd/Gumraah-2023.jpg",Gumraah (2023)
+https://s.id/1Zxgt
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/wxVK7wDG/Guntur-Kaaram-2024.jpg",Guntur Kaaram (2024)
+https://s.id/21E4L
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/CLGySms0/Hanu-Man-2024.jpg",Hanu Man (2024) Cam
+https://s.id/1ZWmA
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/8CCxdDQk/Her-Chapter-1-2023.jpg",Her - Chapter 1 (2023)
+https://s.id/1Zxgx
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/v8nkt3jn/Hi-Nanna-2023.jpg",Hi Nanna (2023)
+https://s.id/1ZxkD
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/Fsg621hs/Hidimbha-2023.jpg",Hidimbha (2023)
+https://s.id/1Zuw5
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/nVYxqFfT/Indian-Police-Force-2024-S01.jpg",Indian Police Force (2024) S01
+https://s.id/20DtG
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.imgur.com/JRiquk4.jpg",Jailer (2023)
+https://s.id/1ZngM
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/tTsTMLPp/Japan-2023.jpg",Japan (2023)
+https://s.id/1ZuNE
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/BQfPN26q/Jawan-film-poster.jpg",Jawan (2023)
+https://s.id/1ZnbO
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/DzymqWwW/Jigarthanda-Double-X-2023.jpg",Jigarthanda DoubleX (2023)
+https://s.id/1ZuO4
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/J7yb4CND/Joram-2023.jpg",Joram (2023)
+https://s.id/21psN
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/nzNzb0Y7/Kaathal-The-Core-2023.jpg",Kaathal The Core (2023)
+https://s.id/1ZxkI
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/Hs4DR8w0/Kadak-Singh-Poster.jpg",Kadak Singh (2023)
+https://s.id/1Zn4l
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/3x9xJKF3/Kannur-Squad-2023.jpg",Kannur Squad (2023)
+https://s.id/1ZxkM
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/qgf19V5K/F9-YJTDvftry-DVTYTB-1.jpg",Keedaa Cola (2023)
+https://s.id/1ZrB8
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/d3TYfWq4/Kho-Gaye-Hum-Kahan-film-poster.jpg",Kho Gaye Hum Kahan (2023)
+https://s.id/1Zn4B
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/6pBQX7RH/Killer-Soup-2024-S01.jpg",Killer Soup (2024) S01
+https://s.id/1ZWrF
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/YSxmLCS7/b4GIRZJ.jpg",Kisi Ka Bhai Kisi Ki Jaan (2023)
+https://s.id/1ZnhD
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/PxvX41sq/Kolai-2023.jpg",Kolai (2023)
+https://s.id/1ZuO9
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/x1s9V69C/Leo-2023.jpg",Leo (2023)
+https://s.id/1ZuQE
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/sXpGrnmp/34c191b511193e924766b65936c337fd.jpg",Maama Maschindra (2023)
+https://s.id/1ZrBf
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/26RJsWLy/Mangalavaaram-2023.jpg",Mangalavaaram (2023)
+https://s.id/1Zux3
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/pTLVn3kK/image_57.jpg",Meter (2023)
+https://s.id/1ZrBh
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/FR4WWQwJ/Minus-31-The-Nagpur-Files-2023.jpg",Minus 31 The Nagpur Files (2023)
+https://s.id/1ZuQK
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/MZb6ymb1/Miss-Perfect-2024.jpg",Miss Perfect (2024) S01
+https://s.id/21qGz
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/gjMg2Ljv/Mission-Raniganj-The-Great-Bharat-Rescue-2023.jpg",Mission Raniganj The Great Bharat Rescue (2023)
+https://s.id/1ZuQO
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.imgur.com/ZrTQVet.jpg",Mrs Undercover  (2023)
+https://s.id/1Zni0
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/dQddQykv/TeDayJI.jpg",Mumbaikar (2023)
+https://s.id/1Zni6
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/76hyWzXV/My-Name-Is-Shruthi-2023.jpg",My Name Is Shruthi (2023)
+https://s.id/1ZATK
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/sx0JrFHm/Nene-Naa.jpg",Nene Naa (2023)
+https://s.id/1Zn4S
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/SQZd88Q9/Neru-2023.jpg",Neru (2023)
+https://s.id/1Zn5L
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/JzJYFy9N/image.jpg",Ninnu Kori (2017)
+https://s.id/21qJB
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/D0mq5jfX/Once-Upon-Two-Times-2023.jpg",Once Upon Two Times (2023)
+https://s.id/1Zn5C
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/L8jjyZSN/Parastree-2023.jpg",Parastree (2023)
+https://s.id/1Zuxr
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/Y0YMDXRM/330px-Parking-2023-film-theatrical-release-poster.jpg",Parking (2023)
+https://s.id/1Zn7r
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.imgur.com/GGYmm2D.jpg",Pathaan (2023)
+https://s.id/1Znis
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/h4wxc0P2/Pippa-2023.jpg",Pippa (2023)
+https://s.id/1ZxkO
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/h4wxc0P2/Pippa-2023.jpg",Pippa (2023)
+https://s.id/21r95
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/xCZkj0YX/Pulimada-2023.jpg",Pulimada (2023)
+https://s.id/1ZxkT
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/MKKCR1DK/Saindhav-2024.jpg",Saindhav (2024)
+https://s.id/21rmD
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.imgur.com/dDbRnov.jpg",Sajini Shinde Ka Viral Video (2023)
+https://s.id/1Znk5
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/FsRPnpCG/MXnNOX1.jpg",Salaar Part 1- Ceasefire (2023)
+https://s.id/20DtR
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/dVLXvZnj/Sam-Bahadur-2023.jpg",Sam Bahadur (2023)
+https://s.id/212hv
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/cJ73PSx5/Selfiee-film.jpg",Selfiee (2023)
+https://s.id/1Zn8l
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/2Sx7kBt3/Shastry-Viruddh-Shastry-2023.jpg",Shastry Viruddh Shastry (2023)
+https://s.id/1Zn8p
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/J0KSvh1L/Starfish-2023.jpg",Starfish (2023)
+https://s.id/20DtT
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/fbLmMqXg/Sukhee-2023.jpg",Sukhee (2023)
+https://s.id/1ZxkX
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/K8cg5p9v/Tejas-2023.jpg",Tejas (2023)
+https://s.id/1ZATP
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/7ZxrpYvB/Tamilarasan-2023.jpg",Tamilarasan (2023)
+https://s.id/1ZEKE
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/T1qpVngD/Thank-You-For-Coming-2023.jpg",Thank You For Coming (2023)
+https://s.id/1ZuQT
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/xCfh4XSg/0aaa482418728e1d817ca7fa40885369.jpg",The Freelancer (2023) S01E01-04
+https://s.id/1Zozf
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/xCfh4XSg/0aaa482418728e1d817ca7fa40885369.jpg",The Freelancer (2023) S01E05-07
+https://s.id/1Zoz9
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/k43v0sPf/The-Great-Indian-Family-film-poster.jpg",The Great Indian Family (2023)
+https://s.id/1Zn9g
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/J4xstc1w/The-Vaccine-War-2023.jpg",The Vaccine War (2023)
+https://s.id/1Zxl1
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/gJ3Jp3MT/tiger-31-1698301609.jpg",Tiger 3 (2023)
+https://s.id/1ZEKG
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/gk15zfRK/Tiger-Nageswara-Rao-2023.jpg",Tiger Nageswara Rao (2023)
+https://s.id/1Zn9L
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/8zCjvJ57/Toby-2023.jpg",Toby (2023)
+https://s.id/1Zuyx
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.imgur.com/GiYkXUA.jpg",Tu Jhoothi Main Makkaar (2023)
+https://s.id/1ZnjC
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/gJW8Fczm/image_16.png",Vadhuvu (2023) S01
+https://s.id/1ZozJ
+#EXTINF:-1 group-title="Indian Movies" tvg-logo="https://i.postimg.cc/pXyJgCcC/Video-Cam-Scam-2024-S01.png",Video Cam Scam (2024) S01
+https://s.id/1ZWYX
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://i.postimg.cc/0Ntc9J4P/346268-front.jpg",Ape vs Mecha Ape (2023)
+https://s.id/1ZrAS
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://i.postimg.cc/g0Fsk1s3/Aquaman-and-the-Lost-Kingdom-poster.jpg",Aquaman and the Lost Kingdom (2023)
+https://s.id/2128x
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://i.postimg.cc/qvvK4ZH6/Barbie-2023.jpg",Barbie (2023)
+https://s.id/1Zuuc
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://i.postimg.cc/q7T1B9JW/Bottoms-2023.jpg",Bottoms (2023)
+https://s.id/21rch
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://i.postimg.cc/8C6QcDbR/Burning-Betrayal-2023.png",Burning Betrayal (2023)
+https://s.id/20DsR
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://i.postimg.cc/7PFQ2bwT/Consecration-2023.jpg",Consecration (2023)
+https://s.id/21rcm
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://i.postimg.cc/g0q1Q7Hd/Dangerous-Waters-2023.jpg",Dangerous Waters (2023)
+https://s.id/1ZCVw
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://i.postimg.cc/tg2jkkdJ/Disquiet-2023.jpg",Disquiet (2023)
+https://s.id/1ZATw
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://i.postimg.cc/nzPRGQK0/Echo-2024-S01.jpg",Echo (2024) S01
+https://s.id/1ZWjS
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://i.postimg.cc/L5gyC6NR/Eileen-2023.jpg",Eileen (2023)
+https://s.id/1ZuvI
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://i.postimg.cc/N0JyBSL1/Family-switch-poster.jpg",Family Switch (2023)
+https://s.id/1ZnfE
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://i.imgur.com/o82pcKR.jpg",Fast X (2023)
+https://s.id/1ZnjQ
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://i.postimg.cc/7hDyjc0g/Ghosted-2023.jpg",Ghosted (2023)
+https://s.id/20Dtq
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://i.imgur.com/IYOJTOv.jpg",Guardians of the Galaxy Vol 3 (2023)
+https://s.id/1ZngH
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://i.postimg.cc/SNp5TcFv/How-to-Have-Sex-2023.jpg",How to Have Sex (2023)
+https://s.id/1ZrnU
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://i.postimg.cc/sxZCVRkG/Hypnotic-2023.jpg",Hypnotic (2023)
+https://s.id/1ZATB
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://i.imgur.com/T1679sM.jpg",Indiana Jones and the Dial of Destiny (2023)
+https://s.id/1ZnjM
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://i.postimg.cc/bvBYk35M/Kill-Him-2023.jpg",Kill Him (2023)
+https://s.id/1Zomo
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://i.postimg.cc/B6gCGVGY/Lift-2024.jpg",Lift (2024)
+https://s.id/1ZWrJ
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://i.postimg.cc/7LfwHSLN/Little-Dixie-2023.jpg",Little Dixie (2023)
+https://s.id/1Zuwv
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://i.postimg.cc/HLCfSm5B/Mafia-Mamma-2023.jpg",Mafia Mamma (2023)
+https://s.id/1ZCW9
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://i.imgur.com/mIU6TEl.jpg",Meg 2 The Trench (2023)
+https://s.id/1ZnjU
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://i.postimg.cc/jSDFCczC/Merry-Christmas-2024.jpg",Merry Christmas (2024)
+https://s.id/1ZWTE
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://i.imgur.com/FdEyGNq.jpg",Mission Impossible Dead Reckoning Part One (2023)
+https://s.id/1Znhz
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://i.postimg.cc/HsHmn1Qm/mr-mrs-smith-325851000-large.jpg",Mr & Mrs Smith (2024) S01E01-04
+https://s.id/21qCp
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://i.postimg.cc/HsHmn1Qm/mr-mrs-smith-325851000-large.jpg",Mr & Mrs Smith (2024) S01E05-08
+https://s.id/21qCs
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://i.imgur.com/uM5m1V0.png",No Hard Feelings (2023)
+https://s.id/1Znia
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://i.postimg.cc/Wp9rWdDh/One-Ranger-2023.jpg",One Ranger (2023)
+https://s.id/21qBG
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://i.imgur.com/IQ06ETr.jpg",Oppenheimer (2023)
+https://s.id/1Znij
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://i.postimg.cc/0y6ZTLmY/Rebel-moon-part1-poster.jpg",Rebel Moon Part One A Child of Fire (2023)
+https://s.id/1Zn7x
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://i.postimg.cc/s1dvSwMy/Role-Play-2024.jpg",Role Play (2024)
+https://s.id/1ZWTS
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://i.imgur.com/pkfWYnH.jpg",Silent Night (2023)
+https://s.id/1Zniw
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://i.postimg.cc/TYMVn9Mp/Society-of-the-Snow-2023.jpg",Society of the Snow (2023)
+https://s.id/1ZCWb
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://i.postimg.cc/Kjy130kb/Thanksgiving-2023.jpg",Thanksgiving (2023)
+https://s.id/1ZuxB
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://i.postimg.cc/ZnXCBFnd/The-Beekeeper-3.jpg",The Beekeeper (2024)
+https://s.id/21pup
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://i.postimg.cc/NGPS3mmy/The-Bricklayer-2023.jpg",The Bricklayer (2023)
+https://s.id/1ZCWe
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://i.postimg.cc/7ZRJ0jMm/Expendables-4-Poster.jpg",The Expendables 4 (2023)
+https://s.id/1Znfz
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://i.imgur.com/zYp2c2n.png",The Family Plan (2023)
+https://s.id/1ZniC
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://i.imgur.com/nobRopc.jpg",The Killer (2023)
+https://s.id/1ZniP
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://i.postimg.cc/br6CfnTr/The-Marvels-poster.jpg",The Marvels (2023)
+https://s.id/20Du3
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://i.postimg.cc/tTBwCVcM/The-Mother-2023.jpg",The Mother (2023)
+https://s.id/1ZCWO
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://i.imgur.com/wGU2uol.jpg",Transformers Rise of the Beasts (2023)
+https://s.id/1Znji
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://i.postimg.cc/W3Nxv75Z/War-Pony-2023.jpg",War Pony (2023)
+https://s.id/1ZCX7
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://i.postimg.cc/MZD6Y6gV/Warhorse-One-2023.jpg",Warhorse One (2023)
+https://s.id/1ZATW
+#EXTINF:-1 group-title="English Movies" tvg-logo="https://i.postimg.cc/TY7Zch7j/Wonka-2023.jpg",Wonka (2023)
+https://s.id/20Dur
+#EXTINF:-1 group-title="Other Movies" tvg-logo="https://i.postimg.cc/rpZSCwDW/Badland-Hunters-2024.jpg",Badland Hunters (2024)
+https://pixeldra.in/api/file/GA46iMCu?download
+#EXTINF:-1 group-title="Other Movies" tvg-logo="https://i.postimg.cc/kXnqnyXY/Godzilla-Minus-One-Poster.jpg",Godzilla Minus One (2023) 
+https://s.id/1Zn3q
+#EXTINF:-1 group-title="Other Movies" tvg-logo="https://i.postimg.cc/HkM9fhw0/Nowhere-2023.jpg",Nowhere (2023)
+https://s.id/1Zux5
+#EXTINF:-1 group-title="Other Movies" tvg-logo="https://i.postimg.cc/RF1znbg6/The-Wandering-Earth-II-2023.jpg",The Wandering Earth II (2023)
+https://s.id/21r8R
