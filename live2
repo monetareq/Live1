@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vwxzDSF/IMG-20240302-221713.png"group-title="Live Tv",Peace Tv Bangla 
+http://176.119.29.52/live/00:1A:79:50:31:74/B5888A04FEE6A/237.m3u8
+#EXTINF:-1 group-title="Live Tv" tvg-logo="https://i.ibb.co/VjGgqcc/images-2024-03-02-T220831-913.jpg",ISLAM Bangla
+https://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5e/ATN_Islamic_TV_Logo.png" group-title="Live Tv",ATN Islamic TV
 https://livess.jagobd.com.bd/live-orgin/atnislamictv.stream/chunks.m3u8
 #EXTINF:-1 group-title="Live Tv" tvg-logo="https://i.imgur.com/GQhXlx8.jpg",Madina Tv
@@ -108,6 +112,8 @@ http://cdn01.palki.tv/live/BTVWorld-M/index.m3u8
 http://cdn01.palki.tv/live/BTVChattogram-M/index.m3u8
 #EXTINF:-1 group-title="Live Tv" tvg-logo="https://i.imgur.com/8nRyyAu.png",Sangsad Tv
 http://cdn01.palki.tv/live/SangsadTV-M/index.fmp4.m3u8
+#EXTINF:-1 group-title="Live Tv" tvg-logo="https://i.ibb.co/ZLkVnXx/IMG-20240401-053222.png",Bangla+
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Live Tv",Star Jalsha HD
 http://103.109.56.116/live/funtime112/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Live Tv",Star Jalsha HD
