@@ -13,7 +13,7 @@ https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pJhdZme.png" group-title="Live Tv", Al Dawah 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t4FS3Hr.png" group-title="Live Tv", Quran TV
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Live Tv",T Sports HD
-https://tv5.hoichoi24.com/1101/tracks-v1a1/mono.m3u8
+https://live-cdn.tsports.com/live-02/master_1920.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Live Tv",T Sports HD
 https://live-cdn.tsports.com/live-02/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Live Tv",T Sports HD
@@ -123,7 +123,7 @@ http://176.119.29.52/live.ts?channelId=079&uid=3319&deviceMac=00:1A:79:50:31:74
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Live Tv",Colors Bangla HD
 http://103.109.56.116/live/skyfeed1017/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Live Tv",Colors Bangla HD
-http://103.107.79.87:8080/CH8110HD05/tracks-v1a1/mono.m3u8
+https://xo.toxicify-pro.workers.dev/bpk-tv/Colors_HD_MOB/Fallback/Colors_HD_MOB-audio_98835_hin=98800-video=2293600.m3u8?
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sun_Bangla.png" group-title="Live Tv",SUN Bangla HD
 http://103.107.79.87:8080/CH8110HD04/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/Enterr10_Bangla.jpeg" group-title="Live Tv",ENTER 10 BANGLA
@@ -178,6 +178,7 @@ http://103.107.79.87:8080/CH8109HD01/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BOLLYWOOD PRIME" tvg-logo="https://i.ibb.co/rdZ16x7/Picsart-23-07-16-01-35-39-866.png" group-title="Live Tv", BOLLYWOOD PRIME
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f7/Manoranjan_TV.jpeg/revision/latest?cb=20200103190536" group-title="Live Tv", MANORANJAN
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_Kb5EFnUjY3TGUB49ijNZ8kepTG8jE-XHJg&usqp=CAU" group-title="Live Tv" , The Movie Club 
+https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CLASSIC BOLLYWOOD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/Bollywood_Clasic_%282018%29.svg/revision/latest?cb=20181116224354" group-title="Live Tv", CLASSIC BOLLYWOOD
 #EXTINF:-1 group-title="Live Tv" tvg-logo="https://i.imgur.com/J1abUHL.jpg",BFLIX Movie
 #EXTINF:-1 group-title="Live Tv" tvg-logo="https://i.postimg.cc/9fmVBskr/640px-New-logo-of-DD-National.jpg",DD National 
@@ -228,7 +229,9 @@ http://source.strictv.com/play/live.ts?mac=00:1a:79:11:22:31&stream=1114584&exte
 http://103.109.56.116/live/funtime107/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhsEe3zdLj7oBZcFdKSf6O70rTz31IgPlG1zSRxhXBNIxze-DUBZ43_04&s" group-title="Live Tv", A Sports HD 
 #EXTINF:-1 tvg-logo="https://www.financialexpress.com/wp-content/uploads/2022/04/image001-1.jpg" group-title="Live Tv",SPORTS 18
-https://tv5.hoichoi24.com/1005/tracks-v1a1/mono.m3u8
+https://xo.toxicify-pro.workers.dev/bpk-tv/Sports18_2_MOB/Fallback/Sports18_2_MOB-audio_98835_eng=98800-video=1680400.m3u8?
+#EXTINF:-1 tvg-logo="https://www.financialexpress.com/wp-content/uploads/2022/04/image001-1.jpg" group-title="Live Tv",SPORTS 18
+https://xo.toxicify-pro.workers.dev/bpk-tv/Sports18_1_HD_MOB/Fallback/Sports18_1_HD_MOB-audio_98838_eng=98800-video=2293600.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/TNT_Sports_Division_Logo.png" group-title="Live Tv", TNT SPORTS 1
 #EXTINF:-1 tvg-id="" tvg-name="WILLOW HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Willow_Cricket.PNG" group-title="Live Tv", WILLOW HD
 #EXTINF:-1 tvg-id="" tvg-name="ATN Live Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Ariana_television_logo.png" group-title="Live Tv", ATN Live Tv
