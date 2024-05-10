@@ -596,6 +596,8 @@ http://103.107.79.87:8080/CH8106HD01/tracks-v1a1/mono.m3u8
 http://xtv.ooo:8080/adnankb2006/86057314/220065
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/sxTrPYfN/20240408-170156.png",IPL FHD
 http://popeye-ott.net/play/live.php?mac=00:1A:79:02:8C:14&stream=155966&extension=ts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/sxTrPYfN/20240408-170156.png",IPL FHD
+https://cdn-1.bdiptv24.line.pm/live/AstroCricket/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/sxTrPYfN/20240408-170156.png",Sports 18 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/sxTrPYfN/20240408-170156.png",Sports 18 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/sxTrPYfN/20240408-170156.png",Sports 18 
