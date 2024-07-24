@@ -7,6 +7,44 @@ http://113.212.111.246:8080/hls/col12.m3u8
 http://103.109.56.116/live/skyfeed1005/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Live Tv",GAZI TV
 http://103.109.56.116/live/skyfeed1006/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",Jamuna
+http://103.109.56.116/live/skyfeed1021/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",Somoy
+http://103.109.56.116/live/skyfeed1004/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",71 TV
+http://103.109.56.116/live/skyfeed1015/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",INDEPENDENT
+http://103.109.56.116/live/skyfeed1015/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",NEWS 24
+http://103.109.56.116/live/funtime109/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",STAR JALSHA
+http://103.109.56.116/live/funtime112/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",ZEE BANGLA
+http://103.109.56.116/live/funtime111/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",COLORS BANGLA
+http://103.109.56.116/live/skyfeed1017/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",SONY AATH
+http://103.109.56.116/live/skyfeed1016/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",NICK
+http://103.109.56.116/live/funtime110/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",POGO
+http://103.109.56.116/live/skyfeed1019/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",AL-JAZERA
+http://103.109.56.116/live/skyfeed1024/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",DBC
+http://103.109.56.116/live/funtime108/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",BanglaVision
+http://103.109.56.116/live/skyfeed1009/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",Animal Planet
+http://103.109.56.116/live/funtime1025/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",MACCA
+http://103.109.56.116/live/skyfeed1022/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",Channel 24
+http://103.109.56.116/live/skyfeed1002/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",DIPPTO
+http://103.109.56.116/live/skyfeed1003/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",Animal Planet
+
 
 
 
