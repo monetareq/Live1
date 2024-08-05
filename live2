@@ -43,11 +43,13 @@ http://172.20.21.22/live/skyfeed1022/index.m3u8
 http://172.20.21.22/live/skyfeed1002/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",DIPPTO
 http://172.20.21.22/live/skyfeed1003/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live Tv",Animal Planet
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",Jamuna
+http://172.28.28.20:8099/ch1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",zee bangla
+http://172.28.28.20:8099/ch2/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",G TV
+http://172.28.28.20:8099/ch3/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",Jalsha Movies
+http://172.28.28.20:8099/ch4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",T-Sports
+http://172.28.28.20:8099/ch5/index.m3u8
