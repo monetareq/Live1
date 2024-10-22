@@ -114,8 +114,134 @@ https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",Discovery_Bangla
 https://varun-iptv.netlify.app/m3u/TLC.m3u8
-
-
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",Star Sports 1 HD
+http://103.124.251.164:28015/play/a02w/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",Star Sports 1
+http://103.124.251.164:28015/play/a022/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",Star Sports 2
+http://103.124.251.164:28015/play/a03b/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",Star Sports Select 1 HD
+http://103.124.251.164:28015/play/a03i/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",Star Sports Select 2 HD
+http://103.124.251.164:28015/play/a02x/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",Disnep Junior
+http://103.124.251.164:28015/play/a02m/index.m3u8
+#EXTINF:-1,&FLIX HD
+http://103.124.251.164:28015/play/a01s/index.m3u8
+#EXTINF:-1,&PICTURES HD
+http://103.124.251.164:28015/play/a02o/index.m3u8
+#EXTINF:-1,&prive HD
+http://103.124.251.164:28015/play/a00z/index.m3u8
+#EXTINF:-1,ANIMAL PLANET HD
+http://103.124.251.164:28015/play/a00t/index.m3u8
+#EXTINF:-1,BINDASS
+http://103.124.251.164:28015/play/a01u/index.m3u8
+#EXTINF:-1,COLORS INFINITY HD
+http://103.124.251.164:28015/play/a02k/index.m3u8
+#EXTINF:-1,Cartoon Network
+http://103.124.251.164:28015/play/a028/index.m3u8
+#EXTINF:-1,DISNEY JUNIOR
+http://103.124.251.164:28015/play/a02m/index.m3u8
+#EXTINF:-1,Discovery HD
+http://103.124.251.164:28015/play/a008/index.m3u8
+#EXTINF:-1,ETV BAL BHARAT
+http://103.124.251.164:28015/play/a01l/index.m3u8
+#EXTINF:-1,EUROSPORT HD
+http://103.124.251.164:28015/play/a01t/index.m3u8
+#EXTINF:-1,FOX Life HD
+http://103.124.251.164:28015/play/a01h/index.m3u8
+#EXTINF:-1,HBO Family
+http://103.124.251.164:28015/play/a020/index.m3u8
+#EXTINF:-1,HBO HD
+http://103.124.251.164:28015/play/a01v/index.m3u8
+#EXTINF:-1,HBO Hits HD
+http://103.124.251.164:28015/play/a01w/index.m3u8
+#EXTINF:-1,HBO Signature
+http://103.124.251.164:28015/play/a01z/index.m3u8
+#EXTINF:-1,Hits Active
+http://103.124.251.164:28015/play/a03c/index.m3u8
+#EXTINF:-1,Korean Drama Act
+http://103.124.251.164:28015/play/a03d/index.m3u8
+#EXTINF:-1,NAT GEO HD
+http://103.124.251.164:28015/play/a007/index.m3u8
+#EXTINF:-1,NatGeo Wild HD
+http://103.124.251.164:28015/play/a00h/index.m3u8
+#EXTINF:-1,STAR BHARAT HD
+http://103.124.251.164:28015/play/a00s/index.m3u8
+#EXTINF:-1,STAR GOLD ROMANCE
+http://103.124.251.164:28015/play/a01j/index.m3u8
+#EXTINF:-1,STAR GOLD SELECT HD
+http://103.124.251.164:28015/play/a00r/index.m3u8
+#EXTINF:-1,STAR JALSHA HD
+http://103.124.251.164:28015/play/a009/index.m3u8
+#EXTINF:-1,STAR MOVIES HD
+http://103.124.251.164:28015/play/a005/index.m3u8
+#EXTINF:-1,STAR SPORTS 1 SD
+http://103.124.251.164:28015/play/a022/index.m3u8
+#EXTINF:-1,STAR SPORTS 2
+http://103.124.251.164:28015/play/a03b/index.m3u8
+EXTINF:-1,JALSHA MOVIES
+http://103.124.251.164:22127/play/a005/index.m3u8
+#EXTINF:-1,MAX 2
+http://103.124.251.164:22127/play/a01g/index.m3u8
+#EXTINF:-1,SAB HD
+http://103.124.251.164:22127/play/a00q/index.m3u8
+#EXTINF:-1,SET HD
+http://103.124.251.164:22127/play/a00p/index.m3u8
+#EXTINF:-1,SONY AATH
+http://103.124.251.164:22127/play/a00i/index.m3u8
+#EXTINF:-1,SONY AATH 68E
+http://103.124.251.164:22127/play/a01h/index.m3u8
+#EXTINF:-1,SONY MAX HD
+http://103.124.251.164:22127/play/a00n/index.m3u8
+#EXTINF:-1,SONY PIX
+http://103.124.251.164:22127/play/a00d/index.m3u8
+#EXTINF:-1,SONY SPORTS 5
+http://103.124.251.164:22127/play/a01f/index.m3u8
+#EXTINF:-1,TEN 1 HD
+http://103.124.251.164:22127/play/a00o/index.m3u8
+#EXTINF:-1,TEN 3 HD
+http://103.124.251.164:22127/play/a00y/index.m3u8
+#EXTINF:-1,Star Sports 2
+http://103.124.251.164:28015/play/a03b/index.m3u8
+#EXTINF:-1,SUN BANGLA
+http://103.124.251.164:28015/play/a03h/index.m3u8
+#EXTINF:-1,SUN MUSIC
+http://103.124.251.164:28015/play/a01i/index.m3u8
+#EXTINF:-1,SUPER HUNGAMA
+http://103.124.251.164:28015/play/a02n/index.m3u8
+#EXTINF:-1,Star GOLD HD
+http://103.124.251.164:28015/play/a00u/index.m3u8
+#EXTINF:-1,Star Plus HD
+http://103.124.251.164:28015/play/a00o/index.m3u8
+#EXTINF:-1,Star Sport SL1HD
+http://103.124.251.164:28015/play/a00w/index.m3u8
+#EXTINF:-1,Star Sport SL2HD
+http://103.124.251.164:28015/play/a00x/index.m3u8
+#EXTINF:-1,Star Sports1 HD
+http://103.124.251.164:28015/play/a00f/index.m3u8
+#EXTINF:-1,TLC HD
+http://103.124.251.164:28015/play/a02l/index.m3u8
+#EXTINF:-1,TRVAEL XP
+http://103.124.251.164:28015/play/a01n/index.m3u8
+#EXTINF:-1,ZEE ANMOL CINEMA 2
+http://103.124.251.164:28015/play/a03g/index.m3u8
+#EXTINF:-1,ZEE BANGLA CINEMA
+http://103.124.251.164:28015/play/a035/index.m3u8
+#EXTINF:-1,ZEE BANGLA HD
+http://103.124.251.164:28015/play/a00v/index.m3u8
+#EXTINF:-1,ZEE CINEMA HD
+http://103.124.251.164:28015/play/a02q/index.m3u8
+#EXTINF:-1,ZEE CINEMALU HD
+http://103.124.251.164:28015/play/a01g/index.m3u8
+#EXTINF:-1,ZEE TV HD
+http://103.124.251.164:28015/play/a037/index.m3u8
+#EXTINF:-1,ZOOM
+http://103.124.251.164:28015/play/a01m/index.m3u8
+#EXTINF:-1,Colors Bangla HD
+http://103.124.251.164:28015/play/a00a/index.m3u8
+#EXTINF:-1,Nick HD+
+http://103.124.251.164:28015/play/a00y/index.m3u8
 
 
 
