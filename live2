@@ -180,7 +180,7 @@ http://103.124.251.164:28015/play/a005/index.m3u8
 http://103.124.251.164:28015/play/a022/index.m3u8
 #EXTINF:-1,STAR SPORTS 2
 http://103.124.251.164:28015/play/a03b/index.m3u8
-EXTINF:-1,JALSHA MOVIES
+#EXTINF:-1,JALSHA MOVIES
 http://103.124.251.164:22127/play/a005/index.m3u8
 #EXTINF:-1,MAX 2
 http://103.124.251.164:22127/play/a01g/index.m3u8
