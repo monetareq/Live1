@@ -1,6 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Live Tv",T Sports HD
-https://cdn.livestreambd.com/TSports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Live Tv",T Sports HD
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Live Tv",T Sports HD
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Live Tv",T Sports HD
@@ -20,11 +19,9 @@ http://172.20.21.22/live/funtime109/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",STAR JALSHA
 http://172.20.21.22/live/funtime112/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",STAR JALSHA
-http://103.190.85.38/hls/starJalsha.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",ZEE BANGLA
 http://172.20.21.22/live/funtime111/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",ZEE BANGLA
-http://103.190.85.38/hls/zeebangla.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",COLORS BANGLA
 http://172.20.21.22/live/skyfeed1017/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",Jalsha Movies
