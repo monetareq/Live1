@@ -3,9 +3,11 @@
 http://172.19.178.59:18190/sn-saudiqurantv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",Peace Tv Bangla
 http://172.19.178.59:18190/sn-peacetvbangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/1200px-Bangladesh_Television_Logo.svg.png" group-title="Live Tv",BTV Bangla
+http://202.59.210.98/funtime/funtine/660.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Live Tv",T Sports HD
 http://161.248.188.202/toffe.ipl/vip/video.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Live Tv",T Sports HD
+00#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Live Tv",T Sports HD
 http://172.19.178.29:18190/CLOUD-TV-02/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Live Tv",T Sports HD
 http://172.19.178.49:18190/sn-gtv/tracks-v1a1/mono.m3u8
