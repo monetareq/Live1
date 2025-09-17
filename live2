@@ -1,49 +1,76 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",Peace Tv Bangla
-#EXTINF:-1 tvg-logo="" group-title="Live Tv",Peace Tv Bangla
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",BTV NEWS
+http://172.20.2.5:8082/BTV-NEWS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/1200px-Bangladesh_Television_Logo.svg.png" group-title="Live Tv",BTV Bangla
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Live Tv",T Sports HD
 http://172.20.3.1:81/TSportsHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Live Tv",T Sports HD
 http://172.20.3.1:81/Tsports-raw/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Live Tv",T Sports HD
+http://172.20.2.5:8082/LIVE-SPORTS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Live Tv",T Sports HD
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Live Tv",GAZI TV
 http://172.20.3.1:81/GaziTVHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Live Tv",GAZI TV
+http://172.20.2.5:8082/GTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",Jamuna
+http://172.20.2.5:8082/JAMUNA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",Jamuna
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",Masranga
+http://172.20.2.5:8082/MASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",Somoy
+http://172.20.2.5:8082/SOMOY-NEWS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",Somoy
 http://172.20.3.1:81/SomoyTVHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",DBC
+http://172.20.2.5:8082/DBC-NEWS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",71 TV
-#EXTINF:-1 tvg-logo="" group-title="Live Tv",71 TV
+http://172.20.2.5:8082/EKATTOR-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",GLOBAL TV
+http://172.20.2.5:8082/GLOBAL-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",RTV
+http://172.20.2.5:8082/RTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",INDEPENDENT
+http://172.20.2.5:8082/INDPENDENT-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",NEWS 24
 http://172.20.3.1:81/News24HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",Channel S
 http://172.20.3.1:81/ChannelS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",ATN NEWS
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",ATN BANGLA
+http://172.20.2.5:8082/ATN-BANGLA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",Channel I
+http://172.20.2.5:8082/CHANNEL-I/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",Channel I
 http://172.20.3.1:81/ChannelIHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",SA TV
+http://172.20.2.5:8082/SATV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",STAR JALSHA
 http://172.20.3.1:81/StarJalshaHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",STAR JALSHA
+http://172.20.2.5:8082/STAR-JALSHA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",ZEE BANGLA
+http://172.20.2.5:8082/ZEE-BANGLA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",ZEE BANGLA
 http://172.20.3.1:81/ZeeBanglaHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",SUN BANGLA
 http://172.20.3.1:81/SunBangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",ZEE BANGLA
+http://172.20.2.5:8082/COLORS-BANGLA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",ZEE BANGLA CINEMA
+http://172.20.2.5:8082/ZEE-BANGLA-CINEMA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",COLORS BANGLA
+http://172.20.2.5:8082/JALSHA-MOVIES/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",Jalsha Movies
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",SONY AATH
+http://172.20.2.5:8082/SONY-ART/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",NICK
+http://172.20.2.5:8082/NICK/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",NICK
 http://172.20.3.1:81/NickBNG/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live Tv",POGO
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",CARTOON NETWORK
+http://172.20.2.5:8082/CN-NETWORK/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",AL-JAZERA
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",DBC
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",BanglaVision
@@ -54,39 +81,86 @@ http://172.20.3.1:81/EkhonTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",NAGORIK
 http://172.20.3.1:81/NagorikTVHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",N TV
+http://172.20.2.5:8082/NTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",Animal Planet
 http://172.20.3.1:81/BBCLifestyleHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",MACCA
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",Channel 9
 http://172.20.3.1:81/CHannel9HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",Channel 9
+http://172.20.2.5:8082/CHANNEL-9/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",DIPPTO
 http://172.20.3.1:81/DeeptoHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",DIPPTO
+http://172.20.2.5:8082/DEEPTO-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",BANGLA TV
+http://172.20.2.5:8082/221/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",BIJOY TV
+http://172.20.2.5:8082/BIJOY-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",MOHONA TV
+http://172.20.2.5:8082/MOHONA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Boishaki%20TV.png",Boishakhi Tv
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zGWjhVN/IMG-20240126-091620.png"group-title="Bangladeshi",MOVIE BANGLA
-#EXTINF:-1 tvg-logo="" group-title="Live Tv",Animal_Planet
+http://172.20.2.5:8082/BOISHAKI-TV/tracks-a1/mono.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Bangladeshi",STAR PLUS HD
+http://172.20.2.5:8082/STAR-PLUS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Bangladeshi",COLORS HD
+http://172.20.2.5:8082/COLORS-HIN/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Bangladeshi",SONY ENTERTINMENT
+http://172.20.2.5:8082/SONY-ENT/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Bangladeshi",SONY MAX
+http://172.20.2.5:8082/SONY-MAX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Bangladeshi",STAR GOLD
+http://172.20.2.5:8082/STAR-GOLD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Bangladeshi",ZEE CINEMA HD
+http://172.20.2.5:8082/ZEE-CINEMA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Bangladeshi",& PICTURE
+http://172.20.2.5:8082/AND-PICTURE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",SUPER HUNGAMA
+http://172.20.2.5:8082/MASTI/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",SONY PIX
+http://172.20.2.5:8082/SONY-PIX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",STAR MOVIES
+http://172.20.2.5:8082/STAR-MOVIE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",Discovery_Bangla
-#EXTINF:-1 tvg-logo="" group-title="Live Tv",Discovery_Bangla
+http://172.20.2.5:8082/DISCOVERY/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",NATIONAL GEOGRAPHI
+http://172.20.2.5:8082/NGO-GEROPHY/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",Bein Sports
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",Enterr 10
 http://172.20.3.1:81/Inter10Bangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",ALJAZEERA
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",Sony Sports 1
+http://172.20.2.5:8082/SONY-TEN-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",Sony Sports 1
 http://172.20.3.1:81/SonySportsTen1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",Sony Sports 2
+http://172.20.2.5:8082/SONY-TEN-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",Sony Sports 3
+http://172.20.2.5:8082/SONY-TEN-3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",Sony Sports 3
 http://172.20.3.1:81/SonySportsTen3HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",STAR Sports 1
+http://172.20.2.5:8082/STAR-SPORTS-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",STAR Sports 1
 http://172.20.3.1:81/StarSports1HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",STAR Sports 2
+http://172.20.2.5:8082/STAR-SPORTS-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",STAR Sports 2
 http://172.20.3.1:81/StarSports2HD/tracks-v1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",STAR Sports select 1
 http://172.20.3.1:81/StarSportsSel1HD/tracks-v1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",STAR Sports select 1
+http://172.20.2.5:8082/SPL-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",STAR Sports Select 2
+http://172.20.2.5:8082/SPL-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",STAR Sports Select 2
 http://172.20.3.1:81/StarSportsSel2HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",PTV Sports
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",BEIN Sports
 http://172.20.3.1:81/beINSportsXTRAHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live Tv",KIDS CREATION
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",EURO Sports
+http://172.20.2.5:8082/EURO-SPORTS/tracks-v1a1/mono.m3u8
+
 
 
 
