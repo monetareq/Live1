@@ -73,10 +73,20 @@ http://172.20.3.1:81/SunBangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",COLORS BANGLA
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",Jalsha Movies
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",SONY AATH
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png",দূরন্ত টিভি
+https://tvsen4.aynaott.com/durontotv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",NICK
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",NICK
 http://172.20.3.1:81/NickBNG/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",CARTOON NETWORK
+#EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://upload.wikimedia.org/wikipedia/sco/c/cc/Motu_Patlu_official_logo.png",Motu Patlu 
+https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
+#EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://uplo_logo.png",Doraemon
+https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
+#EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://upload.wikimego.png", Gopal Bhar
+https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
+#EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://pash.ink/storage/uploads/JungleBook_Logo.png",Jungle Book
+https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",AL-JAZERA
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",DBC
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",BanglaVision
@@ -109,7 +119,11 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",BANGLA TV
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",BIJOY TV
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",MOHONA TV
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",SRK TV
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Boishaki%20TV.png",Boishakhi Tv
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Live Tv",Me-টিভি
+https://iptvbd.live/metv1080/1080.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Bangladeshi",STAR PLUS HD
 #EXTINF:-1 tvg-logo=""group-title="Bangladeshi",COLORS HD
 #EXTINF:-1 tvg-logo=""group-title="Bangladeshi",SONY ENTERTINMENT
@@ -122,6 +136,12 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",STAR MOVIES
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",Discovery_Bangla
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",NATIONAL GEOGRAPHI
+#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/BBC_Earth_2023.svg", BBC Earth
+https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
+#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://i.imgur.com/5lZ8dnC.png",Wild Earth
+https://wildearth-plex.amagi.tv/master.m3u8
+#EXTINF:-1 tvg-logo="https://photos.prnewswire.com/prnfull/20150515/10122924" group-title="Documentary",Travel xp
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",Bein Sports
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",Enterr 10
 http://172.20.3.1:81/Inter10Bangla/tracks-v1a1/mono.m3u8
