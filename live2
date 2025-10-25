@@ -64,6 +64,7 @@ http://172.20.3.1:81/ChannelIHD/tracks-v1a1/mono.m3u8
 http://172.20.3.1:81/StarJalshaHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",STAR JALSHA
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",ZEE BANGLA
+https://tvsen3.aynaott.com/PNEb3v2q6GBk/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",ZEE BANGLA
 http://172.20.3.1:81/ZeeBanglaHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",SUN BANGLA
@@ -71,6 +72,7 @@ http://172.20.3.1:81/SunBangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",ZEE BANGLA
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",ZEE BANGLA CINEMA
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",COLORS BANGLA
+https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",Jalsha Movies
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",SONY AATH
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png",দূরন্ত টিভি
