@@ -38,6 +38,8 @@ https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",Somoy
 http://172.20.3.1:81/SomoyTVHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",Somoy
+http://103.175.242.10:8080/somoy/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",DBC
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",71 TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
@@ -59,6 +61,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",Channel I
 http://172.20.3.1:81/ChannelIHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",Channel I
+http://103.175.242.10:8080/channeli/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",SA TV
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",STAR JALSHA
 http://172.20.3.1:81/StarJalshaHD/tracks-v1a1/mono.m3u8
@@ -71,9 +75,11 @@ http://172.20.3.1:81/ZeeBanglaHD/tracks-v1a1/mono.m3u8
 http://172.20.3.1:81/SunBangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",ZEE BANGLA
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",ZEE BANGLA CINEMA
+https://smart.bengaldigital.live/Zee-Bangla-Cinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",COLORS BANGLA
 https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live Tv",Jalsha Movies
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",Shananda Movie
+http://smart.bengaldigital.live/Zee-Bangla/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",SONY AATH
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png",দূরন্ত টিভি
 https://tvsen4.aynaott.com/durontotv/index.m3u8
@@ -131,10 +137,14 @@ https://iptvbd.live/metv1080/1080.m3u8
 https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Bangladeshi",STAR PLUS HD
 #EXTINF:-1 tvg-logo=""group-title="Bangladeshi",COLORS HD
+#EXTINF:-1 ,SONY LIV
+https://dai.google.com/linear/hls/event/biQJgf06SJCitj-nd502ow/master.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Bangladeshi",SONY ENTERTINMENT
 #EXTINF:-1 tvg-logo=""group-title="Bangladeshi",SONY MAX
 #EXTINF:-1 tvg-logo=""group-title="Bangladeshi",STAR GOLD
+http://87.255.35.150:18859/
 #EXTINF:-1 tvg-logo=""group-title="Bangladeshi",ZEE CINEMA HD
+http://smart.bengaldigital.live/ZeeCinema/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Bangladeshi",& PICTURE
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",SUPER HUNGAMA
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",SONY PIX
@@ -175,6 +185,9 @@ http://172.20.3.1:81/StarSportsSel2HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",BEIN Sports
 http://172.20.3.1:81/beINSportsXTRAHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",EURO Sports
+#EXTINF:-1 ,RTA Sports
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/03.m3u8
+
 
 
 #EXTINF:-1 tvg-id="0-9-zeetamil" tvg-country="IN" tvg-chno="001" tvg-language="ta" tvg-name="Zee Tamil HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeetamil/list/1920x1080listef67d9a80c9345bdb8254aa042944e0b.jpg" group-title="Entertainment", Zee Tamil HD
