@@ -190,6 +190,10 @@ https://smart.bengaldigital.live/WWE/index.m3u8
 https://ams.sandbrix.live/LiveApp/streams/H8YbJkA5EROi48mK344053877989566.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",FOX Sports 
 https://rumble.com/live-hls/6z456e/playlist.m3u8
+#EXTINF:-1 group-title="Live Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png",PTV Sports
+http://66.102.120.18:8000/play/a04w/index.m3u8
+#EXTINF:-1 group-title="Live Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png",A Sports
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/804
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",Sony Sports 1
 http://172.20.3.1:81/SonySportsTen1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",Sony Sports 2
