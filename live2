@@ -71,6 +71,21 @@ http://172.20.3.1:81/StarJalshaHD/tracks-v1a1/mono.m3u8
 https://tvsen3.aynaott.com/PNEb3v2q6GBk/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",ZEE BANGLA
 http://172.20.3.1:81/ZeeBanglaHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="0-9-zeebangla" tvg-country="IN" tvg-chno="005" tvg-language="bn" tvg-name="Zee Bangla HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeebangla/list/1920x1080listccb45723a35643a1819bf8220c28c00f.jpg" group-title="Entertainment", Zee Bangla HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=HLS
+#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
+https://servertvhub.site/zee5-main/index.php?id=0-9-zeebangla&%7CUser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
+
+#EXTINF:-1 tvg-id="0-9-zeebanglacinema" tvg-country="IN" tvg-chno="006" tvg-language="bn" tvg-name="Zee Bangla Sonar" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeebanglacinema/list/1920x1080listbbd91e5288344aeb9d05ac2aba5ebfa2.jpg" group-title="Movie", Zee Bangla Sonar
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=HLS
+#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
+https://servertvhub.site/zee5-main/index.php?id=0-9-zeebanglacinema&%7CUser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",SUN BANGLA
 http://172.20.3.1:81/SunBangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",SUN BANGLA
@@ -82,6 +97,8 @@ https://smart.bengaldigital.live/Zee-Bangla-Cinema/tracks-v1a1/mono.m3u8
 http://103.145.48.150:90/laosat24/taratv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",COLORS BANGLA
 https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
+#EXTINF:-1 ,Colors Bangla (1080p)
+http://87.255.35.150:18236/
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",Shananda Movie
 http://smart.bengaldigital.live/Zee-Bangla/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",Shananda Movie
@@ -97,6 +114,12 @@ https://tvsen4.aynaott.com/durontotv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",NICK
 http://172.20.3.1:81/NickBNG/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",CARTOON NETWORK
+#EXTINF:-1 ,CN+
+http://38.143.48.212:9981/stream/channelid/1520310405?profile=pass
+#EXTINF:-1 ,Disney_Junior
+http://78.108.251.7/Disney_Junior/index.m3u8
+#EXTINF:-1 ,Cartoon_Network
+http://78.108.251.7/Cartoon_Network/index.m3u8
 #EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://upload.wikimedia.org/wikipedia/sco/c/cc/Motu_Patlu_official_logo.png",Motu Patlu 
 https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
 #EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://uplo_logo.png",Doraemon
@@ -134,7 +157,6 @@ http://172.20.3.1:81/DeeptoHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",DIPPTO
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",DIPPTO
-
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",BANGLA TV
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",BIJOY TV
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",MOHONA TV
@@ -148,126 +170,8 @@ https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 https://iptvbd.live/metv1080/1080.m3u8
 #EXTINF:-1 tvg-id="AamarBangla.in@SD" tvg-logo="https://www.jagobd.com/wp-content/uploads/2022/07/Aamar-Bangla.jpg" group-title="Live Tv",Aamar Bangla (720p)
 https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Bangladeshi",STAR PLUS HD
-#EXTINF:-1 tvg-logo=""group-title="Bangladeshi",COLORS HD
-#EXTINF:-1 ,SONY LIV
-https://dai.google.com/linear/hls/event/biQJgf06SJCitj-nd502ow/master.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Bangladeshi",SONY ENTERTINMENT
-#EXTINF:-1 tvg-logo=""group-title="Bangladeshi",SONY MAX
-#EXTINF:-1 tvg-logo=""group-title="Bangladeshi",STAR GOLD
-http://87.255.35.150:18859/
-#EXTINF:-1 tvg-logo=""group-title="Bangladeshi",ZEE CINEMA HD
-http://smart.bengaldigital.live/ZeeCinema/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Bangladeshi",& PICTURE
-#EXTINF:-1 tvg-logo="" group-title="Live Tv",SUPER HUNGAMA
-#EXTINF:-1 tvg-logo="" group-title="Live Tv",SONY PIX
-#EXTINF:-1 tvg-logo="" group-title="Live Tv",STAR MOVIES
-#EXTINF:-1 tvg-logo="" group-title="Live Tv" tvg-logo="",Hinde Movies
-https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live Tv" tvg-logo="",Hinde Dabbing Movies
-https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/jhmovie/images/7/7b/Goldmines_logo.png/revision/latest?cb=20240404141630" group-title="Live Tv",Goldmines
-https://cdn-2.pishow.tv/live/1459/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live Tv",Goldmines Movies
-https://cdn-2.pishow.tv/live/1461/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live Tv",Goldmines Movies 2
-https://cdn-2.pishow.tv/live/1460/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live Tv",Discovery_Bangla
-#EXTINF:-1 tvg-logo="" group-title="Live Tv",NATIONAL GEOGRAPHI
-#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/BBC_Earth_2023.svg", BBC Earth
-https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
-#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://i.imgur.com/5lZ8dnC.png",Wild Earth
-https://wildearth-plex.amagi.tv/master.m3u8
-#EXTINF:-1 tvg-logo="https://photos.prnewswire.com/prnfull/20150515/10122924" group-title="Documentary",Travel xp
-https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live Tv",Enterr 10
-http://172.20.3.1:81/Inter10Bangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live Tv",ALJAZEERA
-https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live Tv",NXT
-https://smart.bengaldigital.live/WWE/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live Tv",Sand Brix Sports
-https://ams.sandbrix.live/LiveApp/streams/H8YbJkA5EROi48mK344053877989566.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live Tv",FOX Sports 
-https://rumble.com/live-hls/6z456e/playlist.m3u8
-#EXTINF:-1 group-title="Live Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png",PTV Sports
-http://66.102.120.18:8000/play/a04w/index.m3u8
-#EXTINF:-1 group-title="Live Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png",A Sports
-http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/804
-#EXTINF:-1 tvg-logo="" group-title="Live Tv",Sony Sports 1
-http://172.20.3.1:81/SonySportsTen1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live Tv",Sony Sports 2
-#EXTINF:-1 tvg-logo="" group-title="Live Tv",Sony Sports 3
-#EXTINF:-1 tvg-logo="" group-title="Live Tv",Sony Sports 3
-http://172.20.3.1:81/SonySportsTen3HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live Tv",STAR Sports 1
-#EXTINF:-1 tvg-logo="" group-title="Live Tv",STAR Sports 1
-http://172.20.3.1:81/StarSports1HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live Tv",STAR Sports 2
-#EXTINF:-1 tvg-logo="" group-title="Live Tv",STAR Sports 2
-http://172.20.3.1:81/StarSports2HD/tracks-v1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live Tv",STAR Sports select 1
-http://172.20.3.1:81/StarSportsSel1HD/tracks-v1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live Tv",STAR Sports select 1
-#EXTINF:-1 tvg-logo="" group-title="Live Tv",STAR Sports Select 2
-#EXTINF:-1 tvg-logo="" group-title="Live Tv",STAR Sports Select 2
-http://172.20.3.1:81/StarSportsSel2HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live Tv",PTV Sports
-#EXTINF:-1 tvg-logo="" group-title="Live Tv",BEIN Sports
-http://172.20.3.1:81/beINSportsXTRAHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live Tv",EURO Sports
-#EXTINF:-1 ,RTA Sports
-https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/03.m3u8
-
-
-
-#EXTINF:-1 tvg-id="0-9-zeetamil" tvg-country="IN" tvg-chno="001" tvg-language="ta" tvg-name="Zee Tamil HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeetamil/list/1920x1080listef67d9a80c9345bdb8254aa042944e0b.jpg" group-title="Entertainment", Zee Tamil HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=HLS
-#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
-https://servertvhub.site/zee5-main/index.php?id=0-9-zeetamil&%7CUser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
-
-#EXTINF:-1 tvg-id="0-9-zeemarathi" tvg-country="IN" tvg-chno="002" tvg-language="mr" tvg-name="Zee Marathi HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeemarathi/list/1920x1080list63a3bd62dcbd42478d7ef28b66d31c3f.jpg" group-title="Entertainment", Zee Marathi HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=HLS
-#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
-https://servertvhub.site/zee5-main/index.php?id=0-9-zeemarathi&%7CUser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
-
-#EXTINF:-1 tvg-id="0-9-zeetelugu" tvg-country="IN" tvg-chno="003" tvg-language="te" tvg-name="Zee Telugu HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeetelugu/list/1920x1080list975b2fe3f88042eeb5604a149b0f98d4.jpg" group-title="Entertainment", Zee Telugu HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=HLS
-#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
-https://servertvhub.site/zee5-main/index.php?id=0-9-zeetelugu&%7CUser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
-
-#EXTINF:-1 tvg-id="0-9-zeecinemalu" tvg-country="IN" tvg-chno="004" tvg-language="te" tvg-name="Zee Cinemalu HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeecinemalu/list/1920x1080list1c86aa59112c4737ba7db3b4d7d521b4.jpg" group-title="Movie", Zee Cinemalu HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=HLS
-#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
-https://servertvhub.site/zee5-main/index.php?id=0-9-zeecinemalu&%7CUser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
-
-#EXTINF:-1 tvg-id="0-9-zeebangla" tvg-country="IN" tvg-chno="005" tvg-language="bn" tvg-name="Zee Bangla HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeebangla/list/1920x1080listccb45723a35643a1819bf8220c28c00f.jpg" group-title="Entertainment", Zee Bangla HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=HLS
-#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
-https://servertvhub.site/zee5-main/index.php?id=0-9-zeebangla&%7CUser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
-
-#EXTINF:-1 tvg-id="0-9-zeebanglacinema" tvg-country="IN" tvg-chno="006" tvg-language="bn" tvg-name="Zee Bangla Sonar" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeebanglacinema/list/1920x1080listbbd91e5288344aeb9d05ac2aba5ebfa2.jpg" group-title="Movie", Zee Bangla Sonar
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=HLS
-#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
-https://servertvhub.site/zee5-main/index.php?id=0-9-zeebanglacinema&%7CUser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
+#EXTINF:-1 ,US-BD Journal 24 TV
+http://208.86.19.13:81/510.stream/index.m3u8?
 
 #EXTINF:-1 tvg-id="0-9-zeetvhd" tvg-country="IN" tvg-chno="007" tvg-language="hi" tvg-name="Zee TV HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeetvhd/list/1920x1080list3424a135de534b88a95bfd69d193ae1c.jpg" group-title="Entertainment", Zee TV HD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -277,6 +181,31 @@ https://servertvhub.site/zee5-main/index.php?id=0-9-zeebanglacinema&%7CUser-Agen
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
 https://servertvhub.site/zee5-main/index.php?id=0-9-zeetvhd&%7CUser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
 
+#EXTINF:-1 tvg-id="0-9-tvhd_0" tvg-country="IN" tvg-chno="022" tvg-language="hi" tvg-name="&TV HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-tvhd_0/list/1920x1080list8cecf80ef6884ff09063a5abd21f81d6.jpg" group-title="Entertainment", &TV HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=HLS
+#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
+https://servertvhub.site/zee5-main/index.php?id=0-9-tvhd_0&%7CUser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
+
+#EXTINF:-1 ,STAR BHARAT (IND)
+http://87.255.35.150:18853/
+#EXTINF:-1 ,STAR PLUS HD (IND)
+http://87.255.35.150:18850/
+#EXTINF:-1 tvg-logo=""group-title="Bangladeshi",STAR PLUS HD
+#EXTINF:-1 tvg-logo=""group-title="Bangladeshi",COLORS HD
+#EXTINF:-1 ,Colors Rishtey Asia (576p)
+http://87.255.35.150:18886/
+#EXTINF:-1 ,SONY LIV
+https://dai.google.com/linear/hls/event/biQJgf06SJCitj-nd502ow/master.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Bangladeshi",SONY ENTERTINMENT
+#EXTINF:-1 tvg-logo=""group-title="Bangladeshi",SONY MAX
+#EXTINF:-1 tvg-logo=""group-title="Bangladeshi",STAR GOLD
+http://87.255.35.150:18859/
+#EXTINF:-1 tvg-logo=""group-title="Bangladeshi",ZEE CINEMA HD
+http://smart.bengaldigital.live/ZeeCinema/index.m3u8
+
 #EXTINF:-1 tvg-id="0-9-zeecinemahd" tvg-country="IN" tvg-chno="008" tvg-language="hi" tvg-name="Zee Cinema HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeecinemahd/list/1920x1080listb0707389e11d47edb651c329f76a0755.jpg" group-title="Movie", Zee Cinema HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=HLS
@@ -285,37 +214,6 @@ https://servertvhub.site/zee5-main/index.php?id=0-9-zeetvhd&%7CUser-Agent=Mozill
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
 https://servertvhub.site/zee5-main/index.php?id=0-9-zeecinemahd&%7CUser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
 
-#EXTINF:-1 tvg-id="0-9-9z5383485" tvg-country="IN" tvg-chno="009" tvg-language="te" tvg-name="Zee Telugu" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-9z5383485/list/1920x1080listbf351e34400647fb929eff73a83e8ee0.jpg" group-title="Entertainment", Zee Telugu
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=HLS
-#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
-https://servertvhub.site/zee5-main/index.php?id=0-9-9z5383485&%7CUser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
-
-#EXTINF:-1 tvg-id="0-9-9z5383488" tvg-country="IN" tvg-chno="010" tvg-language="te" tvg-name="Zee Cinemalu" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-9z5383488/list/1920x1080list8147fef103204cf4a2bc7a8aef2b9221.jpg" group-title="Movie", Zee Cinemalu
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=HLS
-#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
-https://servertvhub.site/zee5-main/index.php?id=0-9-9z5383488&%7CUser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
-
-#EXTINF:-1 tvg-id="0-9-9z5383486" tvg-country="IN" tvg-chno="011" tvg-language="mr" tvg-name="Zee Marathi" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-9z5383486/list/thumbnail1920x10804b8e9b0fdb9a41a6845b71593c54abea.jpg" group-title="Entertainment", Zee Marathi
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=HLS
-#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
-https://servertvhub.site/zee5-main/index.php?id=0-9-9z5383486&%7CUser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
-
-#EXTINF:-1 tvg-id="0-9-zeetalkies" tvg-country="IN" tvg-chno="012" tvg-language="mr" tvg-name="Zee Talkies HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeetalkies/list/1920x1080list8db83dea9fb7450aa0d1bf6a4e5f30f5.jpg" group-title="Movie", Zee Talkies HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=HLS
-#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
-https://servertvhub.site/zee5-main/index.php?id=0-9-zeetalkies&%7CUser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
 
 #EXTINF:-1 tvg-id="0-9-176" tvg-country="IN" tvg-chno="013" tvg-language="hi" tvg-name="Zee Classic" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-176/list/1920x1080list18cba842de654a3cb92b33556dfa0bc2.jpg" group-title="Movie", Zee Classic
 #KODIPROP:inputstream=inputstream.adaptive
@@ -341,21 +239,7 @@ https://servertvhub.site/zee5-main/index.php?id=0-9-tvpictureshd&%7CUser-Agent=M
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
 https://servertvhub.site/zee5-main/index.php?id=0-9-zeeclassic&%7CUser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
 
-#EXTINF:-1 tvg-id="0-9-224" tvg-country="IN" tvg-chno="016" tvg-language="ta" tvg-name="Zee Thirai HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-224/list/1920x1080listb7f3310976d14ed59a22940af7587e9a.jpg" group-title="Movie", Zee Thirai HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=HLS
-#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
-https://servertvhub.site/zee5-main/index.php?id=0-9-224&%7CUser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
 
-#EXTINF:-1 tvg-id="0-9-9z5383487" tvg-country="IN" tvg-chno="017" tvg-language="ta" tvg-name="Zee Tamil" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-9z5383487/list/1920x1080listf00742d846d24c75ae2016840ffc0c40.jpg" group-title="Entertainment", Zee Tamil
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=HLS
-#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
-https://servertvhub.site/zee5-main/index.php?id=0-9-9z5383487&%7CUser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
 
 #EXTINF:-1 tvg-id="0-9-zeecafehd" tvg-country="IN" tvg-chno="018" tvg-language="en" tvg-name="Zee Café HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeecafehd/list/1920x1080list813457fc09e349d9ac922d5268ecbf8a.jpg" group-title="Entertainment", Zee Café HD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -364,46 +248,6 @@ https://servertvhub.site/zee5-main/index.php?id=0-9-9z5383487&%7CUser-Agent=Mozi
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
 https://servertvhub.site/zee5-main/index.php?id=0-9-zeecafehd&%7CUser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
-
-#EXTINF:-1 tvg-id="0-9-348" tvg-country="IN" tvg-chno="019" tvg-language="en" tvg-name="Zee Zest HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-348/list/1920x1080list7568db782c114329afd8bb7e030eca0d.jpg" group-title="Lifestyle", Zee Zest HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=HLS
-#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
-https://servertvhub.site/zee5-main/index.php?id=0-9-348&%7CUser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
-
-#EXTINF:-1 tvg-id="0-9-zeekannada" tvg-country="IN" tvg-chno="020" tvg-language="kn" tvg-name="Zee Kannada HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeekannada/list/1920x1080list6d595ac187f94ee8a066a848374117fe.jpg" group-title="Entertainment", Zee Kannada HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=HLS
-#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
-https://servertvhub.site/zee5-main/index.php?id=0-9-zeekannada&%7CUser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
-
-#EXTINF:-1 tvg-id="0-9-241" tvg-country="IN" tvg-chno="021" tvg-language="kn" tvg-name="Zee Power HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-241/list/1920x1080listc7e052932e2b437489d2f1e14445c837.jpg" group-title="Entertainment", Zee Power HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=HLS
-#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
-https://servertvhub.site/zee5-main/index.php?id=0-9-241&%7CUser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
-
-#EXTINF:-1 tvg-id="0-9-tvhd_0" tvg-country="IN" tvg-chno="022" tvg-language="hi" tvg-name="&TV HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-tvhd_0/list/1920x1080list8cecf80ef6884ff09063a5abd21f81d6.jpg" group-title="Entertainment", &TV HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=HLS
-#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
-https://servertvhub.site/zee5-main/index.php?id=0-9-tvhd_0&%7CUser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
-
-#EXTINF:-1 tvg-id="0-9-129" tvg-country="IN" tvg-chno="023" tvg-language="ml" tvg-name="Zee Keralam HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-129/list/1920x1080list18c8c56d87da4f43ac13a1990c44a2e5.jpg" group-title="Entertainment", Zee Keralam HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=HLS
-#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
-https://servertvhub.site/zee5-main/index.php?id=0-9-129&%7CUser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
 
 #EXTINF:-1 tvg-id="0-9-209" tvg-country="IN" tvg-chno="024" tvg-language="hi" tvg-name="&xplorHD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-209/list/1920x1080list1fb75b73f2e441d49af9bc4a1ad782de.jpg" group-title="Movie", &xplorHD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -429,13 +273,6 @@ https://servertvhub.site/zee5-main/index.php?id=0-9-channel_2105335046&%7CUser-A
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
 https://servertvhub.site/zee5-main/index.php?id=0-9-9z5543514&%7CUser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
 
-#EXTINF:-1 tvg-id="0-9-9z5210099" tvg-country="IN" tvg-chno="027" tvg-language="mr" tvg-name="Mumbaicha Raja" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-9z5210099/list/mumbairaja1920x1080268202555a48672a44741798c26a88760a297b3.jpg" group-title="Devotional", Mumbaicha Raja
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=HLS
-#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
-https://servertvhub.site/zee5-main/index.php?id=0-9-9z5210099&%7CUser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
 
 #EXTINF:-1 tvg-id="0-9-zeetv" tvg-country="IN" tvg-chno="028" tvg-language="hi" tvg-name="Zee TV" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeetv/list/1920x1080lista5ee31338b52425094454cd07e6981b1.jpg" group-title="Entertainment", Zee TV
 #KODIPROP:inputstream=inputstream.adaptive
@@ -444,62 +281,6 @@ https://servertvhub.site/zee5-main/index.php?id=0-9-9z5210099&%7CUser-Agent=Mozi
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
 https://servertvhub.site/zee5-main/index.php?id=0-9-zeetv&%7CUser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
-
-#EXTINF:-1 tvg-id="0-9-zeeanmol" tvg-country="IN" tvg-chno="029" tvg-language="hi" tvg-name="Anmol TV" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeeanmol/list/1920x1080listef6865f9714b40139037d98300559cd7.jpg" group-title="Entertainment", Anmol TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=HLS
-#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
-https://servertvhub.site/zee5-main/index.php?id=0-9-zeeanmol&%7CUser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
-
-#EXTINF:-1 tvg-id="0-9-9z5383466" tvg-country="IN" tvg-chno="030" tvg-language="kn" tvg-name="Zee Kannada" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-9z5383466/list/1920x1080listfd49e00fc50544278290170f04bc63c0.jpg" group-title="Entertainment", Zee Kannada
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=HLS
-#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
-https://servertvhub.site/zee5-main/index.php?id=0-9-9z5383466&%7CUser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
-
-#EXTINF:-1 tvg-id="0-9-9z5383484" tvg-country="IN" tvg-chno="031" tvg-language="bn" tvg-name="Zee Bangla" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-9z5383484/list/1920x1080listb02eb766e2e74b64a82d99ddd17011ec.jpg" group-title="Entertainment", Zee Bangla
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=HLS
-#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
-https://servertvhub.site/zee5-main/index.php?id=0-9-9z5383484&%7CUser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
-
-#EXTINF:-1 tvg-id="0-9-zeeyuva" tvg-country="IN" tvg-chno="032" tvg-language="mr" tvg-name="Zee Yuva" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeeyuva/list/1920x1080list5dd504da63d94665be555d032df9000c.jpg" group-title="Entertainment", Zee Yuva
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=HLS
-#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
-https://servertvhub.site/zee5-main/index.php?id=0-9-zeeyuva&%7CUser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
-
-#EXTINF:-1 tvg-id="0-9-sarthaktv" tvg-country="IN" tvg-chno="033" tvg-language="or" tvg-name="Zee Sarthak" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-sarthaktv/list/1920x1080listed5a7eb2119c49b9b08a90831662c7ed.jpg" group-title="Entertainment", Zee Sarthak
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=HLS
-#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
-https://servertvhub.site/zee5-main/index.php?id=0-9-sarthaktv&%7CUser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
-
-#EXTINF:-1 tvg-id="0-9-bigmagic_1786965389" tvg-country="IN" tvg-chno="034" tvg-language="hi" tvg-name="Big Magic" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-bigmagic_1786965389/list/1920x1080listde632d881f1f4a879a94669005bb7256.jpg" group-title="Entertainment", Big Magic
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=HLS
-#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
-https://servertvhub.site/zee5-main/index.php?id=0-9-bigmagic_1786965389&%7CUser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
-
-#EXTINF:-1 tvg-id="0-9-215" tvg-country="IN" tvg-chno="035" tvg-language="pa" tvg-name="Zee Punjabi" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-215/list/1920x1080list480fac72c9754914bae975f1553ad4cb.jpg" group-title="Entertainment", Zee Punjabi
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=HLS
-#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
-https://servertvhub.site/zee5-main/index.php?id=0-9-215&%7CUser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
 
 #EXTINF:-1 tvg-id="0-9-zeecinema" tvg-country="IN" tvg-chno="036" tvg-language="hi" tvg-name="Zee Cinema" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeecinema/list/1920x1080list403630fe2cb2485db8bddad83245f88b.jpg" group-title="Movie", Zee Cinema
 #KODIPROP:inputstream=inputstream.adaptive
@@ -525,120 +306,6 @@ https://servertvhub.site/zee5-main/index.php?id=0-9-zeeaction&%7CUser-Agent=Mozi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
 https://servertvhub.site/zee5-main/index.php?id=0-9-zeeanmolcinema&%7CUser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
 
-#EXTINF:-1 tvg-id="0-9-bigganga" tvg-country="IN" tvg-chno="039" tvg-language="hi" tvg-name="Anmol Cinema 2" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-bigganga/list/1920x1080list07c314433276453ca706229ab5e5c042.jpg" group-title="Movie", Anmol Cinema 2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=HLS
-#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
-https://servertvhub.site/zee5-main/index.php?id=0-9-bigganga&%7CUser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
-
-#EXTINF:-1 tvg-id="0-9-9z5383489" tvg-country="IN" tvg-chno="040" tvg-language="mr" tvg-name="Zee Talkies" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-9z5383489/list/1920x1080list43aaeb0656a9484e855f731963eeeb20.jpg" group-title="Movie", Zee Talkies
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=HLS
-#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
-https://servertvhub.site/zee5-main/index.php?id=0-9-9z5383489&%7CUser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
-
-#EXTINF:-1 tvg-id="0-9-394" tvg-country="IN" tvg-chno="041" tvg-language="mr" tvg-name="Zee Chitramandir" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-394/list/1920x1080list5d76d6a3067442e3ad60f749952115e8.jpg" group-title="Movie", Zee Chitramandir
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=HLS
-#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
-https://servertvhub.site/zee5-main/index.php?id=0-9-394&%7CUser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
-
-#EXTINF:-1 tvg-id="0-9-zing" tvg-country="IN" tvg-chno="042" tvg-language="hi" tvg-name="Zing" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zing/list/1920x1080list47035ca213b8483fb3985b221724ae7b.jpg" group-title="Music", Zing
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=HLS
-#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
-https://servertvhub.site/zee5-main/index.php?id=0-9-zing&%7CUser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
-
-#EXTINF:-1 tvg-id="0-9-pictures" tvg-country="IN" tvg-chno="043" tvg-language="hi" tvg-name="&Pictures" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-pictures/list/1920x1080liste1864f84ee8f422e9a726e5fe401050c.jpg" group-title="Movie", &Pictures
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=HLS
-#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
-https://servertvhub.site/zee5-main/index.php?id=0-9-pictures&%7CUser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
-
-#EXTINF:-1 tvg-id="0-9-216" tvg-country="IN" tvg-chno="044" tvg-language="hr" tvg-name="Zee Biskope" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-216/list/1920x1080list277eec9ca86a41f2bdc68935794767e9.jpg" group-title="Movie", Zee Biskope
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=HLS
-#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
-https://servertvhub.site/zee5-main/index.php?id=0-9-216&%7CUser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
-
-
-#EXTINF:-1 tvg-id="0-9-wion" tvg-country="IN" tvg-chno="058" tvg-language="en" tvg-name="WION" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-wion/list/1920x1080listd76e0469ed8b44c5baa119b3564e2f50.jpg" group-title="News", WION
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=HLS
-#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
-https://servertvhub.site/zee5-main/index.php?id=0-9-wion&%7CUser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
-
-
-#EXTINF:-1 tvg-id="0-9-zeesalaam" tvg-country="IN" tvg-chno="067" tvg-language="hi" tvg-name="Zee Salaam" tvg-logo="https://english.cdn.zeenews.com/images/logo/livetv/Salaam_Tv.png" group-title="Entertainment", Zee Salaam
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=HLS
-#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
-https://servertvhub.site/zee5-main/index.php?id=0-9-zeesalaam&%7CUser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
-
-
-#EXTINF:-1 tvg-id="0-9-zeetvuk" tvg-country="GB" tvg-chno="069" tvg-language="hi" tvg-name="Zee TV HD UK" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeetvuk/list/1920x1080list404f827960494873a0f99692d1e8f54f.jpg" group-title="Entertainment", Zee TV HD UK
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=HLS
-#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
-https://servertvhub.site/zee5-main/index.php?id=0-9-zeetvuk&%7CUser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
-
-#EXTINF:-1 tvg-id="0-9-zeecinemauk" tvg-country="GB" tvg-chno="070" tvg-language="hi" tvg-name="Zee Cinema UK" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeecinemauk/list/1920x1080listd6f35a1a8d4f4acbb39d29d200db8290.jpg" group-title="Movie", Zee Cinema UK
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=HLS
-#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
-https://servertvhub.site/zee5-main/index.php?id=0-9-zeecinemauk&%7CUser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
-
-#EXTINF:-1 tvg-id="0-9-channel_1643519345" tvg-country="GB" tvg-chno="071" tvg-language="hi" tvg-name="Zing USA" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-channel_1643519345/list/1920x1080listclean721faf534a79451fa714b25d2102de48.jpg" group-title="Music", Zing USA
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=HLS
-#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
-https://servertvhub.site/zee5-main/index.php?id=0-9-channel_1643519345&%7CUser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
-
-#EXTINF:-1 tvg-id="0-9-channel_1510237423" tvg-country="GB" tvg-chno="072" tvg-language="hi" tvg-name="&TV HD USA" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-channel_1510237423/list/1920x1080list26d04b21315949609f8b5a37a0b2d679.jpg" group-title="Entertainment", &TV HD USA
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=HLS
-#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
-https://servertvhub.site/zee5-main/index.php?id=0-9-channel_1510237423&%7CUser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
-
-#EXTINF:-1 tvg-id="0-9-360" tvg-country="SG" tvg-chno="073" tvg-language="ta" tvg-name="Zee Tamil HD APAC" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-360/list/1920x1080listef67d9a80c9345bdb8254aa042944e0b7ad5084c9f924e2f8b42e4bd7b673fde.jpg" group-title="Entertainment", Zee Tamil HD APAC
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=HLS
-#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
-https://servertvhub.site/zee5-main/index.php?id=0-9-360&%7CUser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
-
-#EXTINF:-1 tvg-id="0-9-zeetvapac" tvg-country="SG" tvg-chno="074" tvg-language="hi" tvg-name="Zee TV APAC HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeetvapac/list/1920x1080list9d19430d882842cdb42aef55e83e2010.jpg" group-title="Entertainment", Zee TV APAC HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=HLS
-#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
-https://servertvhub.site/zee5-main/index.php?id=0-9-zeetvapac&%7CUser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
 
 #EXTINF:-1 tvg-id="0-9-zeecinemaintl" tvg-country="SG" tvg-chno="075" tvg-language="hi" tvg-name="Zee Cinema ME" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeecinemaintl/list/1920x1080listb14aad0d90b644e8ba27a9d15842fe9c.jpg" group-title="Movie", Zee Cinema ME
 #KODIPROP:inputstream=inputstream.adaptive
@@ -648,13 +315,6 @@ https://servertvhub.site/zee5-main/index.php?id=0-9-zeetvapac&%7CUser-Agent=Mozi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
 https://servertvhub.site/zee5-main/index.php?id=0-9-zeecinemaintl&%7CUser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
 
-#EXTINF:-1 tvg-id="0-9-channel_926372368" tvg-country="SG" tvg-chno="076" tvg-language="mr" tvg-name="Zee Marathi USA" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-channel_926372368/list/1920x1080list77f6a2a9e7dc4fb7bc152faad4e16f34.jpg" group-title="Entertainment", Zee Marathi USA
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=HLS
-#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
-https://servertvhub.site/zee5-main/index.php?id=0-9-channel_926372368&%7CUser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
 
 #EXTINF:-1 tvg-id="0-9-zeebioskop" tvg-country="SG" tvg-chno="077" tvg-language="id" tvg-name="Zee Bioskop" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeebioskop/list/1920x1080list5409a17e022443fbb70d5e3d0d4ec9f2.jpg" group-title="Movie", Zee Bioskop
 #KODIPROP:inputstream=inputstream.adaptive
@@ -672,29 +332,303 @@ https://servertvhub.site/zee5-main/index.php?id=0-9-zeebioskop&%7CUser-Agent=Moz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
 https://servertvhub.site/zee5-main/index.php?id=0-9-tvme&%7CUser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
 
-#EXTINF:-1 tvg-id="0-9-422" tvg-country="AE" tvg-chno="079" tvg-language="ml" tvg-name="Zee Keralam ME" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-422/list/1920x1080list2f9391fdcffa475a85f71c0cd692d5c6.jpg" group-title="Entertainment", Zee Keralam ME
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=HLS
-#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
-https://servertvhub.site/zee5-main/index.php?id=0-9-422&%7CUser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
 
-#EXTINF:-1 tvg-id="0-9-zeealwan" tvg-country="AE" tvg-chno="080" tvg-language="ar" tvg-name="Zee Alwan" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeealwan/list/zeealwanpfthumbnail1920x1080d29cc3acf6a5414893eeceb9009aa030.jpg" group-title="Entertainment", Zee Alwan
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=HLS
-#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
-https://servertvhub.site/zee5-main/index.php?id=0-9-zeealwan&%7CUser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
+#EXTINF:-1 ,Colors Cineplex (1080p)
+http://87.255.35.150:18296/
+#EXTINF:-1 tvg-logo=""group-title="Bangladeshi",& PICTURE
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",SUPER HUNGAMA
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",SONY PIX
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",STAR MOVIES
+#EXTINF:-1 ,Cinemax_HD
+http://78.108.251.7/Cinemax_HD/mono.m3u8
+#EXTINF:-1 ,HBO2_HD
+http://78.108.251.7/HBO2_HD/mono.m3u8
+#EXTINF:-1 ,HBO_HD
+http://78.108.251.7/HBO_HD/mono.m3u8
+#EXTINF:-1 ,HBO3_HD
+http://78.108.251.7/HBO3_HD/mono.m3u8
+#EXTINF:-1 ,amc
+http://78.108.251.7/amc/mono.m3u8
+#EXTINF:-1 ,MovieStar HD
+http://78.108.251.7/MovieStar/mono.m3u8
+#EXTINF:-1 ,Diema HD
+http://78.108.251.7/Diema/mono.m3u8
+#EXTINF:-1 ,MagicTV HD
+http://78.108.251.7/MagicTV/mono.m3u8
+#EXTINF:-1 ,EpicDrama HD
+http://78.108.251.7/EpicDrama/mono.m3u8
+#EXTINF:-1 ,DiemaFamily
+http://78.108.251.7/DiemaFamily/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Tv" tvg-logo="",Hinde Movies
+https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Tv" tvg-logo="",Hinde Dabbing Movies
+https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/jhmovie/images/7/7b/Goldmines_logo.png/revision/latest?cb=20240404141630" group-title="Live Tv",Goldmines
+https://cdn-2.pishow.tv/live/1459/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",Goldmines Movies
+https://cdn-2.pishow.tv/live/1461/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",Goldmines Movies 2
+https://cdn-2.pishow.tv/live/1460/master.m3u8
+#EXTINF:-1 ,TF1_HD
+http://151.80.18.177:86/TF1_HD/index.m3u8
+#EXTINF:-1 ,RTL9 HD
+http://151.80.18.177:86/RTL9/index.m3u8
+#EXTINF:-1 ,MTVEurope
+http://78.108.251.7/MTVEurope/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",Discovery
+http://151.80.18.177:86/Discovery_HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",NATIONAL GEOGRAPHI
+http://143.244.60.30/Nat_Geo_Wild/index.m3u8
+#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/BBC_Earth_2023.svg", BBC Earth
+https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
+#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://i.imgur.com/5lZ8dnC.png",Wild Earth
+https://wildearth-plex.amagi.tv/master.m3u8
+#EXTINF:-1 tvg-logo="https://photos.prnewswire.com/prnfull/20150515/10122924" group-title="Documentary",Travel xp
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Histoire HD
+http://151.80.18.177:86/Histoire/index.m3u8
+#EXTINF:-1 ,Travel_Channel_HD
+http://78.108.251.7/Travel_Channel_HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",Enterr 10
+http://172.20.3.1:81/Inter10Bangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",ALJAZEERA
+https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",NXT
+https://smart.bengaldigital.live/WWE/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",Sand Brix Sports
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",FOX Sports 
+#EXTINF:-1 group-title="Live Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png",PTV Sports
+http://66.102.120.18:8000/play/a04w/index.m3u8
+#EXTINF:-1 group-title="Live Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png",A Sports
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/804
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",Sony Sports 1
+http://87.255.35.150:18926
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",Sony Sports 2
+http://87.255.35.150:18927
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",Sony Sports 5
+http://87.255.35.150:18818
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",Sony Sports 3
+http://172.20.3.1:81/SonySportsTen3HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",STAR Sports 1
+http://87.255.35.150:18923/
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",STAR Sports 1
+http://172.20.3.1:81/StarSports1HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",STAR Sports 2
+http://87.255.35.150:18828/
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",STAR Sports 2
+http://172.20.3.1:81/StarSports2HD/tracks-v1/mono.m3u8
+#EXTINF:-1 ,Star Sports 3 (576p)
+http://87.255.35.150:18804/
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",STAR Sports select 1
+http://172.20.3.1:81/StarSportsSel1HD/tracks-v1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",STAR Sports select 1
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",STAR Sports Select 2
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",STAR Sports Select 2
+http://172.20.3.1:81/StarSportsSel2HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",PTV Sports
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",BEIN Sports
+http://172.20.3.1:81/beINSportsXTRAHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Tv",EURO Sports
+#EXTINF:-1 ,RTA Sports
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/03.m3u8
+#EXTINF:-1 ,TSN 2
+http://143.244.60.30/TSN_2/index.m3u8
+#EXTINF:-1 ,TSN 3
+http://143.244.60.30/TSN_3/index.m3u8
+#EXTINF:-1 ,Eurosport_HD
+http://151.80.18.177:86/Eurosport_HD/index.m3u8
+#EXTINF:-1 ,Eurosport_2_HD
+http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
+#EXTINF:-1 ,HYP 🇪🇸
+http://172.93.102.112:8989/278842_.m3u8
+#EXTINF:-1 ,Arena_Sport_5 HD 🇷🇸
+http://78.108.251.7/Arena_Sport_5/index.m3u8
+#EXTINF:-1 ,Arena_Sport_1 HD
+http://78.108.251.7/Arena_Sport_1/mono.m3u8
+#EXTINF:-1 ,Arena_Sport_2 HD
+http://78.108.251.7/Arena_Sport_2/mono.m3u8
+#EXTINF:-1 ,Arena_Sport_3 HD
+http://78.108.251.7/Arena_Sport_3/mono.m3u8
+#EXTINF:-1 group-title="Sports",ACCDN (1080p)
+https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports",ACCN (720p)
+https://fl1.moveonjoy.com/ACC_NETWORK/index.m3u8
+#EXTINF:-1 group-title="Sports",ACI Sport TV (1080p)
+https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
+#EXTINF:-1 group-title="Sports",Alkass Four HD (720p)
+https://Streamer3.qna.org.qa:443/148164621_live/148164621_296.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Sports",Alkass Three (720p)
+https://streamer2.qna.org.qa/148161470_live/148161470_296.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Sports",Alkass Two (720p)
+https://Streamer3.qna.org.qa:443/148164528_live/148164528_296.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Sports",beIN Sports USA
+http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
+#EXTINF:-1 group-title="Sports",CBS Sports Golazo Network
+https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
+#EXTINF:-1 group-title="Sports",CBS Sports HQ
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3a15356b-8467-4ae7-b2f6-9c8467fcf41d
+#EXTINF:-1 group-title="Sports",CBS Sports Network USA
+https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 group-title="Sports",ColimdoT TV (720p)
+https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
+#EXTINF:-1 group-title="Sports",ČT Sport (720p)
+http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+#EXTINF:-1 group-title="Sports",DirecTV Sports (1080p)
+http://38.183.182.166:8000/play/a125/index.m3u8
+#EXTINF:-1 group-title="Sports",Eleven Sports 1 (2160p)
+http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/20068/index.m3u8
+#EXTINF:-1 group-title="Sports",ESPN U (720p)
+https://fl1.moveonjoy.com/ESPN_U/index.m3u8
+#EXTINF:-1 group-title="Sports",FanDuel Racing
+https://d3ehq1uaxory6w.cloudfront.net/out/v1/35c05f080f4e49a4b4eb031b5a14e505/TVG2index_2.m3u8
+#EXTINF:-1 group-title="Sports",FanDuel Sports Network
+https://fl1.moveonjoy.com/PAC_12/index.m3u8
+#EXTINF:-1 group-title="Sports",FanDuel TV (720p)
+https://d2jl8r92tdc3f1.cloudfront.net/out/v1/59419700344b4625b7cb0693ba265ea3/TVGindex_1.m3u8
+#EXTINF:-1 group-title="Sports",FB TV
+http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sports",FITE 24/7 (1080p)
+https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
+#EXTINF:-1 group-title="Sports",FTV
+https://master.tucableip.com/ftvhd/index.m3u8
+#EXTINF:-1 group-title="Sports",Fubo Sports Network (1080p) [Geo-blocked]
+https://livetv-fa.tubi.video/fubo/master.m3u8
+#EXTINF:-1 group-title="Sports",FUEL TV (1080p)
+https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8
+#EXTINF:-1 group-title="Sports",Game+ (720p)
+https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8
+#EXTINF:-1 group-title="Sports",GEM Fit
+https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemfit/index-0.m3u8
+#EXTINF:-1 group-title="Sports",Geo Super (1080p)
+http://116.90.120.149:8000/play/a021/index.m3u8
+#EXTINF:-1 group-title="Sports",Glory Kickboxing
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f178-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=df3ca9c7-d700-4719-be3f-74dd169206f8
+#EXTINF:-1 group-title="Sports",Gol Classics
+https://d71gqtnep83vb.cloudfront.net/gol_classics/gol_classics.m3u8
+#EXTINF:-1 group-title="Sports",Gol Peru (1080p)
+http://38.183.182.166:8000/play/a120/index.m3u8
+#EXTINF:-1 group-title="Sports",Golf Channel
+https://fl1.moveonjoy.com/GOLF/index.m3u8
+#EXTINF:-1 group-title="Sports",Horse TV (720p)
+https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
+#EXTINF:-1 group-title="Sports",Insight TV (720p)
+https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports",KCMN-LD6 (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
+#EXTINF:-1 group-title="Sports",KHL Prime
+http://194.143.148.28:8080/KHL_HD/index.m3u8
+#EXTINF:-1 group-title="Sports",L1 Max (1080p)
+http://38.183.182.166:8000/play/a12t/index.m3u8
+#EXTINF:-1 group-title="Sports",L'Equipe (1080p)
+https://dshn8inoshngm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gac2i63dmu8b7/LEquipe_FR.m3u8
+#EXTINF:-1 group-title="Sports",M-Net Sport (720p)
+http://ares.mnet.mk/hls/mnet-sport.m3u8
+#EXTINF:-1 group-title="Sports",MLB
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e66968a70f34c0007d050be/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29dbd3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0f1d3baf-2f1b-47d7-9966-3e92a98f1c8a
+#EXTINF:-1 group-title="Sports",MLB Network
+https://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8
+#EXTINF:-1 group-title="Sports",Monterrico TV (1080p) [Not 24/7]
+https://www.opencaster.com/resources/hls_stream/hipodromojcp2.m3u8
+#EXTINF:-1 group-title="Sports",Multivisión Sports (720p) [Not 24/7]
+https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
+#EXTINF:-1 group-title="Sports",Nautical Channel (720p)
+https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8
+#EXTINF:-1 group-title="Sports",NFL Channel
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5105-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6477ef85-3680-442c-94d8-27197903b1f6
+#EXTINF:-1 group-title="Sports",NFL Network
+https://fl1.moveonjoy.com/NFL_NETWORK/index.m3u8
+#EXTINF:-1 group-title="Sports",NFL Sunday Ticket 1
+http://fl2.moveonjoy.com/NFL_1/index.m3u8
+#EXTINF:-1 group-title="Sports",NHL
+https://nhl-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports",NHRA TV (720p)
+https://livetv-fa.tubi.video/nhra/nh.m3u8
+#EXTINF:-1 group-title="Sports",Ovacion TV (720p) [Not 24/7]
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports",PBR RidePass
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60d39387706fe50007fda8e8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f21-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f7275d4e-aa8e-4e8d-9d5e-6a5665bf8190
+#EXTINF:-1 group-title="Sports",PGA Tour
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ac630-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6c2b7359-0375-4f34-996b-4fb9429ead78
+#EXTINF:-1 group-title="Sports",Pluto TV Deportes (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 group-title="Sports",Pluto TV Lucha Libre AAA (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5c01df1759ee03633e7b272c&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=971&terminate=false&userId=
+#EXTINF:-1 group-title="Sports",Pluto TV Sport Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608030eff4b6f70007e1684c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 group-title="Sports",Poker Night in America (1080p)
+https://d2njbreu8qyfxo.cloudfront.net/scheduler/scheduleMaster/216.m3u8
+#EXTINF:-1 group-title="Sports",PokerGo
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fc54366b04b2300072e31af/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b6274-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a68d07ef-a794-43f8-a287-3bd7f27d909b
+#EXTINF:-1 group-title="Sports",Racing America (720p)
+https://livetv-fa.tubi.video/racing-america/playlist.m3u8
+#EXTINF:-1 group-title="Sports",Real Madrid TV (1080p)
+http://176.65.146.237:8401/play/a0ak/index.m3u8
+#EXTINF:-1 group-title="Sports",Realitatea Sportiva (720p)
+https://stream.realitatea.net/realitatea/sportiva_md/ts:playlist.m3u8
+#EXTINF:-1 group-title="Sports",RTA Sport (1080p)
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8
+#EXTINF:-1 group-title="Sports",RTSH Sport (1080p)
+http://178.33.11.6:8696/live/rtshsport/playlist.m3u8
+#EXTINF:-1 group-title="Sports",San Marino RTV Sport (720p)
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
+#EXTINF:-1 group-title="Sports",SportsGrid (1080p)
+https://sportsgrid-tribal.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports",Sportsman Channel
+https://fl1.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="Sports",SportsNet New York (540p)
+https://fl1.moveonjoy.com/SNY/index.m3u8
+#EXTINF:-1 group-title="Sports",TDM Sports Ch. 93 (720p)
+https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
+#EXTINF:-1 group-title="Sports",Teledeporte (1080p)
+https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
+#EXTINF:-1 group-title="Sports",Teletrak (720p)
+https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sports",Telewebion Sport
+https://hidden-mud-9dcf.nhhwkiszzzvcuojxdo.workers.dev/?url=https://live-azd1109.telewebion.com/ek/sport1/live/1080p/index.m3u8
+#EXTINF:-1 group-title="Sports",Telewebion Sport 2
+https://hidden-mud-9dcf.nhhwkiszzzvcuojxdo.workers.dev/?url=https://live-azd1109.telewebion.com/ek/sport2/live/1080p/index.m3u8
+#EXTINF:-1 group-title="Sports",Telewebion Sport 3
+https://hidden-mud-9dcf.nhhwkiszzzvcuojxdo.workers.dev/?url=https://live-azd1103.telewebion.com/ek/sport3/live/1080p/index.m3u8
+#EXTINF:-1 group-title="Sports",Tennis Channel
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+#EXTINF:-1 group-title="Sports",TJK TV (1080p)
+https://tjktv-live.tjk.org/tjktv.m3u8
+#EXTINF:-1 group-title="Sports",TR Sport (480p)
+https://livetr.teleromagna.it/mia/live/playlist.m3u8
+#EXTINF:-1 group-title="Sports",Trace Sport Stars (Australia) (1080p)
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports",TSN1 (1080p)
+https://fl1.moveonjoy.com/TSN_1/index.m3u8
+#EXTINF:-1 group-title="Sports",TSN2
+https://fl1.moveonjoy.com/TSN_2/index.m3u8
+#EXTINF:-1 group-title="Sports",TSN3
+https://fl1.moveonjoy.com/TSN_3/index.m3u8
+#EXTINF:-1 group-title="Sports",TSN4
+https://fl1.moveonjoy.com/TSN_4/index.m3u8
+#EXTINF:-1 group-title="Sports",TSN5
+https://fl1.moveonjoy.com/TSN_5/index.m3u8
+#EXTINF:-1 group-title="Sports",TSN The Ocho
+https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
+#EXTINF:-1 group-title="Sports",TVRI Sport (720p)
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+#EXTINF:-1 group-title="Sports",Unbeaten (1080p)
+https://unbeaten-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports",World of Freesports
+https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreammediafreesportsintl-rakuten/CDN/master.m3u8
+#EXTINF:-1 group-title="Sports",World of Freesports (1080p)
+https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports",World Poker Tour (1080p) [Not 24/7]
+https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
+#EXTINF:-1 group-title="Sports",World Poker Tour Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608016e446d73500075ea7e0/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 group-title="Sports",Астрахань.Ru Sport (720p)
+https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="0-9-zeeaflam" tvg-country="AE" tvg-chno="081" tvg-language="ar" tvg-name="Zee Aflam" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeeaflam/list/zeeaflampfthumbnail1920x108094e49cea51934c7d9afe7bc68f9257e7.jpg" group-title="Movie", Zee Aflam
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=HLS
-#KODIPROP:inputstream.adaptive.manifest_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F130.0.0.0+Safari%2F537.36+Edg%2F131.0.0.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
-https://servertvhub.site/zee5-main/index.php?id=0-9-zeeaflam&%7CUser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
+
+
+
+
+
 
 
 
