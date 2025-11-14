@@ -37,7 +37,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",Somoy
 http://172.20.3.1:81/117-SomoyTVHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",Somoy
-http://103.175.242.10:8080/somoy/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",DBC
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",71 TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
@@ -64,7 +63,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",Channel I
 http://172.20.3.1:81/106-ChannelIHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",Channel I
-http://103.175.242.10:8080/channeli/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",SA TV
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",STAR JALSHA
 http://172.20.3.1:81/202-StarJalshaHD/tracks-v1a1/mono.m3u8
