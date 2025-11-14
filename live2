@@ -69,7 +69,6 @@ http://172.20.3.1:81/202-StarJalshaHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",STAR JALSHA
 https://xfireflix.fun/file/opplex/playlist.m3u?id=245898&e=.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",ZEE BANGLA
-https://tvsen3.aynaott.com/PNEb3v2q6GBk/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",ZEE BANGLA
 http://172.20.3.1:81/206-ZeeBanglaHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",SUN BANGLA
@@ -83,10 +82,10 @@ https://smart.bengaldigital.live/Zee-Bangla-Cinema/tracks-v1a1/mono.m3u8
 http://103.145.48.150:90/laosat24/taratv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",COLORS BANGLA
 https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
-#EXTINF:-1 ,JALSH MOVIES
-http://172.20.3.1:81/204-JalshaMoviesHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Colors Bangla (1080p)
 http://87.255.35.150:18236/
+#EXTINF:-1 ,JALSH MOVIES
+http://172.20.3.1:81/204-JalshaMoviesHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",Shananda Movie
 http://smart.bengaldigital.live/Zee-Bangla/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",Shananda Movie
@@ -173,7 +172,6 @@ http://172.20.3.1:81/301-StarPlus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Colors Rishtey Asia (576p)
 http://87.255.35.150:18886/
 #EXTINF:-1 ,SONY LIV
-https://dai.google.com/linear/hls/event/biQJgf06SJCitj-nd502ow/master.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Bangladeshi",SONY ENTERTINMENT
 http://172.20.3.1:81/330-SonySETHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Bangladeshi",SONY MAX
@@ -190,25 +188,16 @@ http://87.255.35.150:18296/
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",SONY PIX
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",STAR MOVIES
 #EXTINF:-1 ,Cinemax_HD
-http://78.108.251.7/Cinemax_HD/mono.m3u8
 #EXTINF:-1 ,HBO2_HD
-http://78.108.251.7/HBO2_HD/mono.m3u8
 #EXTINF:-1 ,HBO_HD
-http://78.108.251.7/HBO_HD/mono.m3u8
 #EXTINF:-1 ,HBO3_HD
-http://78.108.251.7/HBO3_HD/mono.m3u8
 #EXTINF:-1 ,amc
 http://78.108.251.7/amc/mono.m3u8
 #EXTINF:-1 ,MovieStar HD
-http://78.108.251.7/MovieStar/mono.m3u8
 #EXTINF:-1 ,Diema HD
-http://78.108.251.7/Diema/mono.m3u8
 #EXTINF:-1 ,MagicTV HD
-http://78.108.251.7/MagicTV/mono.m3u8
 #EXTINF:-1 ,EpicDrama HD
-http://78.108.251.7/EpicDrama/mono.m3u8
 #EXTINF:-1 ,DiemaFamily
-http://78.108.251.7/DiemaFamily/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv" tvg-logo="",Hinde Movies
 https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv" tvg-logo="",Hinde Dabbing Movies
@@ -220,11 +209,8 @@ https://cdn-2.pishow.tv/live/1461/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",Goldmines Movies 2
 https://cdn-2.pishow.tv/live/1460/master.m3u8
 #EXTINF:-1 ,TF1_HD
-http://151.80.18.177:86/TF1_HD/index.m3u8
 #EXTINF:-1 ,RTL9 HD
-http://151.80.18.177:86/RTL9/index.m3u8
 #EXTINF:-1 ,MTVEurope
-http://78.108.251.7/MTVEurope/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",Discovery
 http://151.80.18.177:86/Discovery_HD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Tv",NATIONAL GEOGRAPHI
